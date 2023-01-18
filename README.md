@@ -27,14 +27,19 @@
 - [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - [Phosphor](https://phosphoricons.com/) icon components
 - [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Astro component for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
 
+### If I want to add optimized images?
+
+- [@astrojs/image](https://docs.astro.build/en/guides/integrations-guide/image/) - Official image optimization integration
+- [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Community image optimization integration
+
 ### If I want to render a string of markdown?
 
 [Fetching Remote Markdown](https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown)
 
 - [astro-remote](https://github.com/natemoo-re/astro-remote) - SSR/SSG, ability to use components in markdown
 - [@astrojs/markdown-remark](https://github.com/withastro/astro/blob/52209ca2ad72a30854947dcb3a90ab4db0ac0a6f/packages/markdown/remark/src/index.ts#L42) - Built in `renderMarkdown()` utility for rendering markdown
-- [@astropub/md](https://github.com/astro-community/md) - SSG, markdown component and function
-- [@astrojs/markdown-component](https://github.com/withastro/astro/tree/main/packages/markdown/component) - SSG, markdown component
+- [@astropub/md](https://github.com/astro-community/md) - SSG, `<Markdown>` component and function
+- [@astrojs/markdown-component](https://github.com/withastro/astro/tree/main/packages/markdown/component) - SSG, `<Markdown>` component
 
 ### If I want to style my markdown?
 
