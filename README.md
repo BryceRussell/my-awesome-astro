@@ -27,14 +27,14 @@
 ### If I want to add icons?
 
 - [astro-icon](https://github.com/natemoo-re/astro-icon) - (Un)Official `<Icon>` component powered by [Iconify](https://iconify.design/)
-  - [Icon set refrence](https://icon-sets.iconify.design/) - List of available icons
+  - [Icon set reference](https://icon-sets.iconify.design/) - List of available icons
   - [Icônes](https://icones.js.org/) - Tool for exploring and downloading icons
   - [Iconify Components](https://docs.iconify.design/develop/) - Official [Iconify](https://iconify.design/) components
 - [astro-feather-icons](https://github.com/edazpotato/astro-feather-icons) - Icon component for [Feather icons](https://feathericons.com/)
 - [astro-heroicons](https://github.com/seanmcp/astro-heroicons) - Icon component for [Heroicons](https://heroicons.com/)
 - [@astropub/icons](https://github.com/astro-community/icons) - Icon component for [Radix icons](https://icons.radix-ui.com/)
 - [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - Icon component for [Phosphor icons](https://phosphoricons.com/)
-- [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Component for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
+- [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Components for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
 
 ### If I want to add SEO?
 
