@@ -15,6 +15,18 @@
 
 ## What Do I Use
 
+### If I want add an icon?
+
+- [astro-icon](https://github.com/natemoo-re/astro-icon) - (Un)Official `<Icon>` component powered by [Iconify](https://iconify.design/)
+  - [Icônes](https://icones.js.org/) - Tool for exploring and downloading icons
+  - [Icon set refrence](https://icon-sets.iconify.design/) - List of available icons
+  - [Iconify Components](https://docs.iconify.design/develop/) - 
+- [astro-feather-icons](https://github.com/edazpotato/astro-feather-icons) - [Feather](https://feathericons.com/) icon components
+- [astro-heroicons](https://github.com/seanmcp/astro-heroicons) - [Heroicons](https://heroicons.com/) icon components
+- [@astropub/icons](https://github.com/astro-community/icons) - [Radix](https://icons.radix-ui.com/) icon components
+- [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - [Phosphor](https://phosphoricons.com/) icon components
+- [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Astro component for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
+
 ### If I want to render a string of markdown?
 
 [Fetching Remote Markdown](https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown)
@@ -26,9 +38,9 @@
 ### If I want to style my markdown?
 
 - [Global Styling](https://docs.astro.build/en/guides/styling/#global-styles) - Use global vanilla css styling
-- [Tailwind/typography plugin](https://tailwindcss.com/docs/typography-plugin) - Official tailwind plugin for styling markdown
+- [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin) - Official tailwind plugin for styling markdown
 - [Tailwind @apply directive](https://tailwindcss.com/docs/functions-and-directives#apply) - Create global tailwind styles using @apply directive
-- [rehype-add-classes plugin](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
+- [rehype-add-classes](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
 
 
 ### If I want to share state between components?
@@ -36,8 +48,8 @@
 - [nanostores](https://github.com/nanostores/nanostores) - Currently reccomended by Astro, can be used between React, React Native, Preact, Vue, Svelte, and vanilla JavaScript
   - [@nanostores/persistent](https://github.com/nanostores/persistent) - Persist nanostores between pages using localStorage
 - [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) - Share state between Svelte components
-- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS signals can be used in the frontmatter of `.astro` files
-- [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events) - Use vanilla JavaScript to send custom events
+- [SolidJS signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS signals can be used in the frontmatter of `.astro` files
+- [Custom Event](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events) - Use vanilla JavaScript to send custom events
 
 ### If I want to create open graph images?
 
@@ -58,6 +70,11 @@
 
 - [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
 - [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
+
+### If I want to create a PWA?
+
+- [@vite-pwa/astro](https://vite-pwa-org.netlify.app/frameworks/astro) - Astro integration for creating PWAs with [vite-pwa](https://vite-pwa-org.netlify.app/)
+- [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest
 
 ### If I want to add authentication?
 
