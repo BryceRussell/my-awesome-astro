@@ -1,6 +1,4 @@
-# my-awesome-astro
-
-I got tired of memorizing all of these links so this my awesome list for Astro
+# My Awesome Astro
 
 ## Official
 
