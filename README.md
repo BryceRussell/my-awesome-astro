@@ -77,7 +77,7 @@
 
 ### If I want to create open graph images?
 
-[Preview open graph images and meta tags](https://www.opengraph.xyz/)
+[Open Graph Protocol](https://ogp.me/)
 
 - [satori-html](https://github.com/natemoo-re/satori-html) - Create og images using html strings and [satori](https://github.com/vercel/satori)
   - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
@@ -85,6 +85,8 @@
 - [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) - Vercel's official open graph image generation using [satori](https://github.com/vercel/satori)
   - [Adding Vercel og:image generation to Astro project with Edge functions - Thomas Ledoux](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
 - [astro-og-image](https://www.npmjs.com/package/astro-og-image) - Screenshot pages as open graph images
+
+[Preview open graph images and meta tags of website](https://www.opengraph.xyz/)
 
 ### If I want to add the ability to search?
 
