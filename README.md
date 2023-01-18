@@ -24,7 +24,7 @@
 - [astro-google-fonts-optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - Component, downloads the CSS of a Google Fonts stylesheet and inlines it directly into the page, inspired by [NextJS font optimization](https://nextjs.org/blog/next-10-2#automatic-webfont-optimization)
 - [astro-fonts-next](https://github.com/dc7290/astro-fonts-next) - Integration, applies [NextJS font optimization](https://nextjs.org/blog/next-10-2#automatic-webfont-optimization) to Google Fonts
 
-### If I want add icons?
+### If I want to add icons?
 
 - [astro-icon](https://github.com/natemoo-re/astro-icon) - (Un)Official `<Icon>` component powered by [Iconify](https://iconify.design/)
   - [Icon set refrence](https://icon-sets.iconify.design/) - List of available icons
