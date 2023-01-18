@@ -94,6 +94,12 @@
 - [@vite-pwa/astro](https://vite-pwa-org.netlify.app/frameworks/astro) - Astro integration for creating PWAs with [vite-pwa](https://vite-pwa-org.netlify.app/)
 - [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest
 
+### If I want to minify my website?
+
+- [astro-compress](https://github.com/astro-community/astro-compress) - Compresses CSS, HTML, JSON, JavaScript, Images, and SVGs
+- [astro-critters](https://github.com/astro-community/astro-critters) - Automatically inline the critical CSS
+- [Netlify asset optimization](https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing) - [Control your asset optimization settings from `netlify.toml`](https://www.netlify.com/blog/2019/08/05/control-your-asset-optimization-settings-from-netlify.toml/)
+
 ### If I want to add authentication?
 
 - [Lucia](https://lucia-auth.vercel.app/astro/start-here/getting-started)
