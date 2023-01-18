@@ -67,21 +67,23 @@
 
 ### If I want to create open graph images?
 
-- [satori-html](https://github.com/natemoo-re/satori-html)
+[Preview open graph images and meta tags](https://www.opengraph.xyz/)
+
+- [satori-html](https://github.com/natemoo-re/satori-html) - Create og images using html strings and [satori](https://github.com/vercel/satori)
   - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
   - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
-- [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation)
+- [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) - Vercel's official open graph image generation using [satori](https://github.com/vercel/satori)
   - [Adding Vercel og:image generation to Astro project with Edge functions - Thomas Ledoux](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
-- [astro-og-image](https://www.npmjs.com/package/astro-og-image)
+- [astro-og-image](https://www.npmjs.com/package/astro-og-image) - Screenshot pages as open graph images
 
 ### If I want to add the ability to search?
 
-- [Pagefind](https://pagefind.app/) - 
+- [Pagefind](https://pagefind.app/)
   - [Add Searching To Your Astro Static Site - Otterlord](https://blog.otterlord.dev/post/astro-search/)
   - [Pagefind is quite a find for site search - Bryce Wray](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/)
   - [Sweeter searches with Pagefind - Bryce Wray](https://www.brycewray.com/posts/2022/12/sweeter-searches-pagefind/)
-- [Lunr](https://github.com/siverv/astro-lunr)
-- [Lyra](https://github.com/LyraSearch/plugin-astro#readme)
+- [@lyrasearch/plugin-astro](https://github.com/LyraSearch/plugin-astro) - Astro integration for [Lyra](https://lyrajs.io/) search
+- [astro-lunr](https://github.com/jackcarey/astro-lunr) - Astro integration for [Lunr](https://github.com/siverv/astro-lunr) search
 
 ### If I want to add internationalization?
 
@@ -90,7 +92,9 @@
 
 ### If I want to add a CMS?
 
-- [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for adding [Netlify CMS](https://www.netlifycms.org/)
+- [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
+- [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
+- [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
 
 ### If I want to create a sitemap?
 
