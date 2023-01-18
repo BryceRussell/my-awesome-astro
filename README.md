@@ -1,5 +1,3 @@
-# My Awesome Astro
-
 ## Official
 
 ### [Website](https://astro.build/)
@@ -10,10 +8,18 @@
 #### [Official Templates](https://astro.new/)
 #### [Badges](https://astro.badg.es/)
 ### [Repository](https://github.com/withastro/astro)
+#### [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
 #### [Docs Repository](https://github.com/withastro/docs)
 #### [RFC Repository](https://github.com/withastro/rfcs)
 
 ## What Do I Use
+
+### If I want to add SEO?
+
+- [astro-seo](https://github.com/jonasmerlin/astro-seo) - (Recommended) Most popular `<SEO>` component
+- [@astrolib/seo](https://github.com/onwidget/astrolib/tree/main/packages/seo) - Based on [NextSEO](https://github.com/garmeeh/next-seo)
+- [astro-seo-metadata](https://github.com/JulianCataldo/web-garden/tree/develop/app/SEOMetadata) - Minimal SEO component 
+- [astro-seo-meta](https://github.com/codiume/orbit/tree/main/packages/astro-seo-meta) - Minimal SEO component
 
 ### If I want add icons?
 
@@ -21,11 +27,11 @@
   - [Icon set refrence](https://icon-sets.iconify.design/) - List of available icons
   - [Icônes](https://icones.js.org/) - Tool for exploring and downloading icons
   - [Iconify Components](https://docs.iconify.design/develop/) - Official [Iconify](https://iconify.design/) components
-- [astro-feather-icons](https://github.com/edazpotato/astro-feather-icons) - [Feather](https://feathericons.com/) icon components
-- [astro-heroicons](https://github.com/seanmcp/astro-heroicons) - [Heroicons](https://heroicons.com/) icon components
-- [@astropub/icons](https://github.com/astro-community/icons) - [Radix](https://icons.radix-ui.com/) icon components
-- [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - [Phosphor](https://phosphoricons.com/) icon components
-- [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Astro component for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
+- [astro-feather-icons](https://github.com/edazpotato/astro-feather-icons) - Icon component for [Feather icons](https://feathericons.com/)
+- [astro-heroicons](https://github.com/seanmcp/astro-heroicons) - Icon component for [Heroicons](https://heroicons.com/)
+- [@astropub/icons](https://github.com/astro-community/icons) - Icon component for [Radix icons](https://icons.radix-ui.com/)
+- [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - Icon component for [Phosphor icons](https://phosphoricons.com/)
+- [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Component for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
 
 ### If I want to add optimized images?
 
@@ -37,7 +43,7 @@
 [Fetching Remote Markdown](https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown)
 
 - [astro-remote](https://github.com/natemoo-re/astro-remote) - SSR/SSG, ability to use components in markdown
-- [@astrojs/markdown-remark](https://github.com/withastro/astro/blob/52209ca2ad72a30854947dcb3a90ab4db0ac0a6f/packages/markdown/remark/src/index.ts#L42) - Built in `renderMarkdown()` utility for rendering markdown
+- [@astrojs/markdown-remark](https://github.com/withastro/astro/blob/52209ca2ad72a30854947dcb3a90ab4db0ac0a6f/packages/markdown/remark/src/index.ts#L42) - SSG, built in `renderMarkdown()` utility for rendering markdown
 - [@astropub/md](https://github.com/astro-community/md) - SSG, `<Markdown>` component and function
 - [@astrojs/markdown-component](https://github.com/withastro/astro/tree/main/packages/markdown/component) - SSG, `<Markdown>` component
 
