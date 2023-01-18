@@ -14,12 +14,14 @@
 
 ## What Do I Use
 
-### If I want to add SEO?
+### If I want to add a font?
 
-- [astro-seo](https://github.com/jonasmerlin/astro-seo) - (Recommended) Most popular `<SEO>` component
-- [@astrolib/seo](https://github.com/onwidget/astrolib/tree/main/packages/seo) - Based on [NextSEO](https://github.com/garmeeh/next-seo)
-- [astro-seo-metadata](https://github.com/JulianCataldo/web-garden/tree/develop/app/SEOMetadata) - Minimal SEO component 
-- [astro-seo-meta](https://github.com/codiume/orbit/tree/main/packages/astro-seo-meta) - Minimal SEO component
+[Using Custom Fonts](https://docs.astro.build/en/guides/fonts/)
+
+- [Fontsource](https://docs.astro.build/en/guides/fonts/#using-fontsource) - Self-host Open Source fonts in neatly bundled NPM packages, faster than Google Fonts
+  - [Fontsource’s catalog](https://fontsource.org/fonts) - Catalog of all fonts supported by Fontsource
+- [astro-google-fonts-optimizer](https://github.com/sebholstein/astro-google-fonts-optimizer) - Component, downloads the CSS of a Google Fonts stylesheet and inlines it directly into the page, inspired by [NextJS font optimization](https://nextjs.org/blog/next-10-2#automatic-webfont-optimization)
+- [astro-fonts-next](https://github.com/dc7290/astro-fonts-next) - Integration, applies [NextJS font optimization](https://nextjs.org/blog/next-10-2#automatic-webfont-optimization) to Google Fonts
 
 ### If I want add icons?
 
@@ -33,10 +35,18 @@
 - [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - Icon component for [Phosphor icons](https://phosphoricons.com/)
 - [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Component for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
 
+### If I want to add SEO?
+
+- [astro-seo](https://github.com/jonasmerlin/astro-seo) - (Recommended) Most popular `<SEO>` component
+- [@astrolib/seo](https://github.com/onwidget/astrolib/tree/main/packages/seo) - Based on [NextSEO](https://github.com/garmeeh/next-seo)
+- [astro-seo-metadata](https://github.com/JulianCataldo/web-garden/tree/develop/app/SEOMetadata) - Minimal SEO component 
+- [astro-seo-meta](https://github.com/codiume/orbit/tree/main/packages/astro-seo-meta) - Minimal SEO component
+
 ### If I want to add optimized images?
 
 - [@astrojs/image](https://docs.astro.build/en/guides/integrations-guide/image/) - Official image optimization integration
 - [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Community image optimization integration
+- [astro-eleventy-img](https://github.com/Princesseuh/astro-eleventy-img) - Generate images using [eleventy-img](https://github.com/11ty/eleventy-img)
 
 ### If I want to render a string of markdown?
 
@@ -92,6 +102,8 @@
 
 ### If I want to add a CMS?
 
+[Connecting a CMS](https://docs.astro.build/en/guides/cms/)
+
 - [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
 - [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
@@ -103,13 +115,14 @@
 ### If I want to create a PWA?
 
 - [@vite-pwa/astro](https://vite-pwa-org.netlify.app/frameworks/astro) - Astro integration for creating PWAs with [vite-pwa](https://vite-pwa-org.netlify.app/)
-- [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest
+- [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest, favion, icons
 
 ### If I want to minify my website?
 
 - [astro-compress](https://github.com/astro-community/astro-compress) - Compresses CSS, HTML, JSON, JavaScript, Images, and SVGs
 - [astro-critters](https://github.com/astro-community/astro-critters) - Automatically inline the critical CSS
-- [Netlify asset optimization](https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing) - [Control your asset optimization settings from `netlify.toml`](https://www.netlify.com/blog/2019/08/05/control-your-asset-optimization-settings-from-netlify.toml/)
+- [Netlify asset optimization](https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing)
+  - [Control your asset optimization settings from `netlify.toml`](https://www.netlify.com/blog/2019/08/05/control-your-asset-optimization-settings-from-netlify.toml/)
 
 ### If I want to add authentication?
 
