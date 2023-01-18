@@ -47,11 +47,11 @@
 
 ### If I want to share state?
 
-- [nanostores](https://github.com/nanostores/nanostores)
+- [nanostores](https://github.com/nanostores/nanostores) - Currently reccomended by Astro, can be used between React, React Native, Preact, Vue, Svelte, and vanilla JavaScript
   - [@nanostores/persistent](https://github.com/nanostores/persistent) - Persist nanostores between pages using localStorage
-- [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) - Svelte
-- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS
-- [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events)
+- [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) - Share state between Svelte components
+- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS signals can be used in the frontmatter of `.astro` files
+- [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events) - Use vanilla JavaScript to send custom events
 
 ### If I want to add authentication?
 
