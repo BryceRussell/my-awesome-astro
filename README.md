@@ -7,6 +7,7 @@
 #### [Integrations](https://astro.build/integrations/)
 #### [Official Templates](https://astro.new/)
 #### [Badges](https://astro.badg.es/)
+#### [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/)
 ### [Repository](https://github.com/withastro/astro)
 #### [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
 #### [Docs Repository](https://github.com/withastro/docs)
@@ -144,4 +145,4 @@
 
 ### If I want to add authentication?
 
-- [Lucia](https://lucia-auth.vercel.app/astro/start-here/getting-started)
+- [Lucia](https://lucia-auth.vercel.app/astro/start-here/getting-started) - Simple yet flexible user and session management library, provides an abstraction layer between your app and your database
