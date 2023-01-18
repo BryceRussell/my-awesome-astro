@@ -68,15 +68,18 @@
 ### If I want to create open graph images?
 
 - [satori-html](https://github.com/natemoo-re/satori-html)
-  - [Rumaan K - Dynamic OG images using Satori and Astro Server Endpoints](https://rumaan.dev/blog/open-graph-images-using-satori)
-  - [Otterlord - Recreating Vercel's OG Image Generation](https://blog.otterlord.dev/post/dynamic-opengraph/)
+  - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
+  - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
 - [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation)
-  - [Thomas Ledoux - Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
+  - [Adding Vercel og:image generation to Astro project with Edge functions - Thomas Ledoux](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
 - [astro-og-image](https://www.npmjs.com/package/astro-og-image)
 
-### If I want to add searching?
+### If I want to add the ability to search?
 
-- [Pagefind](https://pagefind.app/)
+- [Pagefind](https://pagefind.app/) - 
+  - [Add Searching To Your Astro Static Site - Otterlord](https://blog.otterlord.dev/post/astro-search/)
+  - [Pagefind is quite a find for site search - Bryce Wray](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/)
+  - [Sweeter searches with Pagefind - Bryce Wray](https://www.brycewray.com/posts/2022/12/sweeter-searches-pagefind/)
 - [Lunr](https://github.com/siverv/astro-lunr)
 - [Lyra](https://github.com/LyraSearch/plugin-astro#readme)
 
@@ -88,6 +91,10 @@
 ### If I want to add a CMS?
 
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for adding [Netlify CMS](https://www.netlifycms.org/)
+
+### If I want to create a sitemap?
+
+- [@astrojs/sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/) - Automatically generates a sitemap based on your routes when you build your project
 
 ### If I want to create a PWA?
 
