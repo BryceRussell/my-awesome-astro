@@ -65,6 +65,22 @@
 - [rehype-add-classes](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
 
 
+### If I want to add client side interactivity?
+
+[Client Side Scripting Guide](https://docs.astro.build/en/guides/client-side-scripts/)
+
+[UI Frameworks](https://docs.astro.build/en/core-concepts/framework-components/)
+
+- [`<script>`](https://docs.astro.build/en/core-concepts/astro-components/#client-side-scripts)
+- [Web components](https://docs.astro.build/en/guides/client-side-scripts/#web-components-with-custom-elements)
+- [SolidJS](https://docs.astro.build/en/guides/integrations-guide/solid-js/)
+- [Preact](https://docs.astro.build/en/guides/integrations-guide/preact/)
+- [Lit](https://docs.astro.build/en/guides/integrations-guide/lit/)
+- [Svelte](https://docs.astro.build/en/guides/integrations-guide/svelte/)
+- [Vue](https://docs.astro.build/en/guides/integrations-guide/vue/)
+- [React](https://docs.astro.build/en/guides/integrations-guide/react/)
+- [AlpineJS](https://docs.astro.build/en/guides/integrations-guide/alpinejs/)
+
 ### If I want to share state between components?
 
 [Sharing State](https://docs.astro.build/en/core-concepts/sharing-state/)
