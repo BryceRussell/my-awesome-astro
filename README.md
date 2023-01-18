@@ -15,12 +15,12 @@
 
 ## What Do I Use
 
-### If I want add an icon?
+### If I want add icons?
 
 - [astro-icon](https://github.com/natemoo-re/astro-icon) - (Un)Official `<Icon>` component powered by [Iconify](https://iconify.design/)
-  - [Icônes](https://icones.js.org/) - Tool for exploring and downloading icons
   - [Icon set refrence](https://icon-sets.iconify.design/) - List of available icons
-  - [Iconify Components](https://docs.iconify.design/develop/) - 
+  - [Icônes](https://icones.js.org/) - Tool for exploring and downloading icons
+  - [Iconify Components](https://docs.iconify.design/develop/) - Official [Iconify](https://iconify.design/) components
 - [astro-feather-icons](https://github.com/edazpotato/astro-feather-icons) - [Feather](https://feathericons.com/) icon components
 - [astro-heroicons](https://github.com/seanmcp/astro-heroicons) - [Heroicons](https://heroicons.com/) icon components
 - [@astropub/icons](https://github.com/astro-community/icons) - [Radix](https://icons.radix-ui.com/) icon components
@@ -32,6 +32,7 @@
 [Fetching Remote Markdown](https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown)
 
 - [astro-remote](https://github.com/natemoo-re/astro-remote) - SSR/SSG, ability to use components in markdown
+- [@astrojs/markdown-remark](https://github.com/withastro/astro/blob/52209ca2ad72a30854947dcb3a90ab4db0ac0a6f/packages/markdown/remark/src/index.ts#L42) - Built in `renderMarkdown()` utility for rendering markdown
 - [@astropub/md](https://github.com/astro-community/md) - SSG, markdown component and function
 - [@astrojs/markdown-component](https://github.com/withastro/astro/tree/main/packages/markdown/component) - SSG, markdown component
 
@@ -44,6 +45,8 @@
 
 
 ### If I want to share state between components?
+
+[Sharing State](https://docs.astro.build/en/core-concepts/sharing-state/)
 
 - [nanostores](https://github.com/nanostores/nanostores) - Currently reccomended by Astro, can be used between React, React Native, Preact, Vue, Svelte, and vanilla JavaScript
   - [@nanostores/persistent](https://github.com/nanostores/persistent) - Persist nanostores between pages using localStorage
@@ -70,6 +73,10 @@
 
 - [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
 - [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
+
+### If I want to add a CMS?
+
+- [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for adding [Netlify CMS](https://www.netlifycms.org/)
 
 ### If I want to create a PWA?
 
