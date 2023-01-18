@@ -1,6 +1,6 @@
 # my-awesome-astro
 
-I got tired of meorizing all of these links so this my awesome list for Astro
+I got tired of memorizing all of these links so this my awesome list for Astro
 
 ## Official
 
@@ -34,21 +34,25 @@ I got tired of meorizing all of these links so this my awesome list for Astro
 
 ### If I want to create open graph images?
 
-- [satori-html] - 
-- [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) - [Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
+- [satori-html](https://github.com/natemoo-re/satori-html)
+  - [Rumaan K - Dynamic OG images using Satori and Astro Server Endpoints](https://rumaan.dev/blog/open-graph-images-using-satori)
+  - [Otterlord - Recreating Vercel's OG Image Generation](https://blog.otterlord.dev/post/dynamic-opengraph/)
+- [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation)
+  - [Thomas Ledoux - Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
 - [astro-og-image](https://www.npmjs.com/package/astro-og-image)
 
 ### If I want to search my website?
 
 - [Pagefind](https://pagefind.app/)
-- [LyraSearch](https://github.com/LyraSearch/plugin-astro#readme)
+- [Lunr](https://github.com/siverv/astro-lunr)
+- [Lyra](https://github.com/LyraSearch/plugin-astro#readme)
 
 ### If I want to share state?
 
 - [nanostores](https://github.com/nanostores/nanostores)
-- [@nanostores/persistent](https://github.com/nanostores/persistent)
-- [Svelte stores](https://svelte.dev/docs#run-time-svelte-store)
-- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal)
+  - [@nanostores/persistent](https://github.com/nanostores/persistent) - Persist nanostores between pages using localStorage
+- [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) - Svelte
+- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS
 - [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events)
 
 ### If I want to add authentication?
