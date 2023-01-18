@@ -30,6 +30,15 @@
 - [Tailwind @apply directive](https://tailwindcss.com/docs/functions-and-directives#apply) - Create global tailwind styles using @apply directive
 - [rehype-add-classes plugin](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
 
+
+### If I want to share state between components?
+
+- [nanostores](https://github.com/nanostores/nanostores) - Currently reccomended by Astro, can be used between React, React Native, Preact, Vue, Svelte, and vanilla JavaScript
+  - [@nanostores/persistent](https://github.com/nanostores/persistent) - Persist nanostores between pages using localStorage
+- [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) - Share state between Svelte components
+- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS signals can be used in the frontmatter of `.astro` files
+- [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events) - Use vanilla JavaScript to send custom events
+
 ### If I want to create open graph images?
 
 - [satori-html](https://github.com/natemoo-re/satori-html)
@@ -39,19 +48,16 @@
   - [Thomas Ledoux - Adding Vercel og:image generation to Astro project with Edge functions](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
 - [astro-og-image](https://www.npmjs.com/package/astro-og-image)
 
-### If I want to search my website?
+### If I want to add searching?
 
 - [Pagefind](https://pagefind.app/)
 - [Lunr](https://github.com/siverv/astro-lunr)
 - [Lyra](https://github.com/LyraSearch/plugin-astro#readme)
 
-### If I want to share state?
+### If I want to add internationalization?
 
-- [nanostores](https://github.com/nanostores/nanostores) - Currently reccomended by Astro, can be used between React, React Native, Preact, Vue, Svelte, and vanilla JavaScript
-  - [@nanostores/persistent](https://github.com/nanostores/persistent) - Persist nanostores between pages using localStorage
-- [Svelte stores](https://svelte.dev/docs#run-time-svelte-store) - Share state between Svelte components
-- [SolidJS Signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS signals can be used in the frontmatter of `.astro` files
-- [CustomEvent](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events) - Use vanilla JavaScript to send custom events
+- [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
+- [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
 
 ### If I want to add authentication?
 
