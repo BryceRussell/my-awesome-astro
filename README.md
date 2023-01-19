@@ -1,11 +1,12 @@
 ## Official
 
 ### [Website](https://astro.build/)
-#### [Discord](https://astro.build/chat)
 #### [Documentation](https://docs.astro.build/en/getting-started/)
-#### [Themes](https://astro.build/themes/)
 #### [Integrations](https://astro.build/integrations/)
 #### [Official Templates](https://astro.new/)
+#### [Themes](https://astro.build/themes/)
+#### [Discord](https://astro.build/chat)
+#### [Twitter](https://twitter.com/astrodotbuild)
 #### [Badges](https://astro.badg.es/)
 #### [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/)
 ### [Repository](https://github.com/withastro/astro)
