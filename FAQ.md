@@ -16,7 +16,7 @@ Astro components cannot be used inside of [UI Framework components](https://docs
 
 **Alternatives**:
 
-- Use props to pass Astro variables like `Astro.url.pathname`
+- Use props to pass [Astro variables](https://docs.astro.build/en/reference/api-reference/#astro-global) like `Astro.url.pathname`
 - [Use slots](https://docs.astro.build/en/core-concepts/astro-components/#slots) to pass Astro components to [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
 - Turn your [UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) into a Astro component by wrapping with a `.astro` file
 
