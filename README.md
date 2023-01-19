@@ -44,6 +44,20 @@
 - [astro-seo-metadata](https://github.com/JulianCataldo/web-garden/tree/develop/app/SEOMetadata) - Minimal SEO component 
 - [astro-seo-meta](https://github.com/codiume/orbit/tree/main/packages/astro-seo-meta) - Minimal SEO component
 
+### If I want to create open graph images?
+
+[Open Graph Protocol](https://ogp.me/)
+
+- @astrojs/og - (Coming Soon after 2.0!) Astro's official open graph image generation integration
+- [satori-html](https://github.com/natemoo-re/satori-html) - Create og images using html strings and [satori](https://github.com/vercel/satori)
+  - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
+  - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
+- [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) - Vercel's official open graph image generation using [satori](https://github.com/vercel/satori)
+  - [Adding Vercel og:image generation to Astro project with Edge functions - Thomas Ledoux](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
+- [astro-og-image](https://www.npmjs.com/package/astro-og-image) - Screenshot pages as open graph images
+
+[Preview open graph images and meta tags of website](https://www.opengraph.xyz/)
+
 ### If I want to add optimized images?
 
 - [@astrojs/image](https://docs.astro.build/en/guides/integrations-guide/image/) - Official image optimization integration
@@ -65,7 +79,6 @@
 - [@tailwindcss/typography](https://tailwindcss.com/docs/typography-plugin) - Official tailwind plugin for styling markdown
 - [Tailwind @apply directive](https://tailwindcss.com/docs/functions-and-directives#apply) - Create global tailwind styles using @apply directive
 - [rehype-add-classes](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
-
 
 ### If I want to add client side interactivity?
 
@@ -93,20 +106,6 @@
 - [SolidJS signal](https://www.solidjs.com/docs/latest#createsignal) - SolidJS signals can be used in the frontmatter of `.astro` files
 - [Custom Event](https://developer.mozilla.org/en-US/docs/Web/Events/Creating_and_triggering_events) - Use vanilla JavaScript to send custom events
 
-### If I want to create open graph images?
-
-[Open Graph Protocol](https://ogp.me/)
-
-- @astrojs/og - (Coming Soon after 2.0!) Astro's official open graph image generation integration
-- [satori-html](https://github.com/natemoo-re/satori-html) - Create og images using html strings and [satori](https://github.com/vercel/satori)
-  - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
-  - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
-- [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) - Vercel's official open graph image generation using [satori](https://github.com/vercel/satori)
-  - [Adding Vercel og:image generation to Astro project with Edge functions - Thomas Ledoux](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
-- [astro-og-image](https://www.npmjs.com/package/astro-og-image) - Screenshot pages as open graph images
-
-[Preview open graph images and meta tags of website](https://www.opengraph.xyz/)
-
 ### If I want to add the ability to search?
 
 - [Pagefind](https://pagefind.app/)
@@ -116,10 +115,9 @@
 - [@lyrasearch/plugin-astro](https://github.com/LyraSearch/plugin-astro) - Astro integration for [Lyra](https://lyrajs.io/) search
 - [astro-lunr](https://github.com/jackcarey/astro-lunr) - Astro integration for [Lunr](https://github.com/siverv/astro-lunr) search
 
-### If I want to add internationalization?
+### If I want to handle form submissions?
 
-- [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
-- [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
+- [astro-form-actions](https://github.com/pilcrowOnPaper/astro-form-actions) - SSR, utility for handling form submissions
 
 ### If I want to add a CMS?
 
@@ -128,6 +126,11 @@
 - [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
 - [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
+
+### If I want to add internationalization?
+
+- [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
+- [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
 
 ### If I want to add a RSS feed?
 
