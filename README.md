@@ -97,6 +97,7 @@
 
 [Open Graph Protocol](https://ogp.me/)
 
+- @astrojs/og - (Coming Soon after 2.0!) Astro's official open graph image generation integration
 - [satori-html](https://github.com/natemoo-re/satori-html) - Create og images using html strings and [satori](https://github.com/vercel/satori)
   - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
   - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
