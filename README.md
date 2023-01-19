@@ -129,6 +129,12 @@
 - [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
 
+### If I want to add a RSS feed?
+
+[What is RSS?](https://aboutfeeds.com/)
+
+- [@astrojs/rss](https://docs.astro.build/en/guides/rss/#setting-up-astrojsrss) - Official integration for generating a RSS feed
+
 ### If I want to create a sitemap?
 
 - [@astrojs/sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/) - Automatically generates a sitemap based on your routes when you build your project
