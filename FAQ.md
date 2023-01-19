@@ -12,7 +12,13 @@
 
 ### Why do I get an error when using an Astro component inside of a Svelte/Vue/React component?
 
-Astro components cannot be used inside of [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
+Astro components cannot be used inside of [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/).
+
+**Alternatives**:
+
+- Use props to pass Astro variables like `Astro.url.pathname`
+- [Use slots](https://docs.astro.build/en/core-concepts/astro-components/#slots) to pass Astro components to [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
+- Turn your [UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) into a Astro component by wrapping with a `.astro` file
 
 ### Why can't I create a tailwind class dynamically?
 
