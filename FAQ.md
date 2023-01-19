@@ -2,6 +2,10 @@
 
 ## Questions
 
+### Why is the JavaScript for my component not working?
+
+[UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/) require a [client directive](https://docs.astro.build/en/reference/directives-reference/#client-directives) to control how the component is hydrated onto the page
+
 ### Why can't I create a tailwind class dynamically?
 
 Tailwind classes must be statically analyzable meaning classes must exist inside the project files as a full unbroken string in order for tailwind to find the class and generate a style for it, [more information](https://tailwindcss.com/docs/content-configuration#dynamic-class-names)
