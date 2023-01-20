@@ -2,7 +2,7 @@
 
 > **Note**: All videos are sorted by video length
 
-[Videos](#videos) | [Livestreams](#livestreams) | [Shorts](#shorts) | [Courses](#courses)
+[Videos](#videos) | [Livestreams](#livestreams) | [Shorts](#shorts) | [Series](#series)
 ---|---|---|---
 
 ## Videos
@@ -95,7 +95,7 @@
 - [Using Astro.glob() to get markdown content in your Astro template - Bryan Robinson](https://www.youtube.com/shorts/2JjkedJIZNM)
 - [Astro is the best framework for content rich websites - Cameron Blackwood](https://www.youtube.com/shorts/LzZ-eJBafys)
 
-## Courses
+## Series
 
 ### Astro Blog Course #1 by [Coding in Public](https://www.youtube.com/@CodinginPublic)
 
@@ -147,3 +147,15 @@
 - [Build A Website with Astro, TailwindCSS and React (#2 - Header Dropdown and Contact Form)](https://www.youtube.com/watch?v=JUIf_4tPUuQ) 48:47s
 - [Build A Website with Astro, TailwindCSS and React (#3 - Mobile Header)](https://www.youtube.com/watch?v=hy4zTUSzGOU) 23:24s
 - [Build A Website with Astro, TailwindCSS and React (#4 - Taxonomies and Authors)](https://www.youtube.com/watch?v=8z0AyPqKf9M) 30:09s
+
+### sBird (React app in Astro) to xBird (XElement in Astro) by [Sarah Rainsberger](https://www.youtube.com/@SarahRainsberger)
+
+- [PART 1: sBird (React app in Astro) to xBird (XElement in Astro) - Introduction](https://www.youtube.com/watch?v=0-aH18YH2SQ) 18:28s
+- [PART 2: sBird (React app in Astro) to xBird (XElement in Astro) - xBird Page HTML](https://www.youtube.com/watch?v=MAwcuEkIOTU) 21:24s
+- [PART 3: sBird (React app in Astro) to xBird (XElement in Astro) - xElement Button Components](https://www.youtube.com/watch?v=rY6PaSHmopU) 33:16s
+- [PART 4: sBird (React app in Astro) to xBird (XElement in Astro) - xElement Rendering Birds](https://www.youtube.com/watch?v=H-cENeTjBis) 23:08s
+- [PART 5: sBird (React app in Astro) to xBird (XElement in Astro) - location in "store"](https://www.youtube.com/watch?v=UtIw6H7vWZM) 40:56s
+- [PART 6: sBird (React app in Astro) to xBird (XElement in Astro) - "Reactivity" in XElements](https://www.youtube.com/watch?v=sgPryBtQt9g) 1:23:02s
+- [PART 7: sBird (React app in Astro) to xBird (XElement in Astro) - SUMMARY OF WEEK 2](https://www.youtube.com/watch?v=5Yc23Ruzy08) 12:09s
+- [PART 8: sBird (React app in Astro) to xBird (XElement in Astro) - Nested elements!](https://www.youtube.com/watch?v=wbqKZMQmZFU) 1:12:36s
+
