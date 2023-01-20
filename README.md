@@ -4,7 +4,7 @@
 ---|---|---|---
 
 [Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Mastadon @astro@webtoo.ls](https://m.webtoo.ls/@astro)
----|---
+---|---|---
 
 [Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
 ---|---|---
