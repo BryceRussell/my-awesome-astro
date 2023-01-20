@@ -108,12 +108,20 @@
 
 ### If I want to add the ability to search?
 
+**Index Builders**:
+
 - [Pagefind](https://pagefind.app/)
   - [Add Searching To Your Astro Static Site - Otterlord](https://blog.otterlord.dev/post/astro-search/)
   - [Pagefind is quite a find for site search - Bryce Wray](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/)
   - [Sweeter searches with Pagefind - Bryce Wray](https://www.brycewray.com/posts/2022/12/sweeter-searches-pagefind/)
 - [@lyrasearch/plugin-astro](https://github.com/LyraSearch/plugin-astro) - Astro integration for [Lyra](https://lyrajs.io/) search
 - [astro-lunr](https://github.com/jackcarey/astro-lunr) - Astro integration for [Lunr](https://github.com/siverv/astro-lunr) search
+
+**Fuzzy Search**:
+
+- [fuse.js](https://fusejs.io/) - Powerful lightweight fuzzy-search library with zero dependencies
+  - [Writing a Fuzzy Search Component With Preact and Fuse for Astro - Lloyd Atkinson](https://www.lloydatkinson.net/posts/2022/writing-a-fuzzy-search-component-with-preact-and-fuse-for-astro/)
+  - [How to Create an Astro Search component - Daniel Diaz](https://danidiaztech.com/create-astro-search-component/)
 
 ### If I want to handle form submissions?
 
