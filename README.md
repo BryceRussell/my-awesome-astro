@@ -66,6 +66,8 @@
 - [@astrojs/image](https://docs.astro.build/en/guides/integrations-guide/image/) - Official image optimization integration
 - [astro-imagetools](https://github.com/RafidMuhymin/astro-imagetools) - Community image optimization integration
 - [astro-eleventy-img](https://github.com/Princesseuh/astro-eleventy-img) - Generate images using [eleventy-img](https://github.com/11ty/eleventy-img)
+- [astro-imagekit](https://www.npmjs.com/package/astro-imagekit) - An opinionated toolset for using ImageKit.io with your Astro website
+
 
 ### If I want to render a string of markdown?
 
