@@ -90,7 +90,7 @@
 - [Astro Blog Course #17 - Integrations (React, Tailwind, CMS, and more)](https://www.youtube.com/watch?v=VzU_yqmIuPM) 11:50s
 - [Astro Blog Course #18 - Build, deploy, and update](https://www.youtube.com/watch?v=TIlghu35niY) 5:06s
 
-### Astro Crash Course by Little Sticks
+### Astro Crash Course by [Little Sticks](https://www.youtube.com/@LittleSticks)
 
 #### [Playlist](https://www.youtube.com/playlist?list=PLtLXFsdHI8JSX0qJsHfMDSTR3taqvXa5S)
 
@@ -100,13 +100,13 @@
 - [Astro Crash Course #4 - How to Add Categories/Tags To Blog Posts](https://www.youtube.com/watch?v=m50ITGl8tPI) 27:06s
 - [Astro Crash Course #5 - Upgrading to Astro v1.0, Using Astro's Image Integration](https://www.youtube.com/watch?v=ZWcan5m2dP4) 25:38s
 
-### Astro JS Tutorial Series by Stefan Rows
+### Astro JS Tutorial Series by [Stefan Rows](https://www.youtube.com/@StefanRows)
 
 - [Astro JS Tutorial Series #1 - Getting Started with Astro 🧑‍🚀](https://www.youtube.com/watch?v=BWfpDEVl70A) 36:35s
 - [Astro JS Tutorial Series #2 - Styling and Components 🧑‍🚀](https://www.youtube.com/watch?v=8ZJ5jkwInKo) 15:36s
 - [Astro JS Tutorial Series #3 - Astro Layouts and Tailwind CSS 🧑‍🚀](https://www.youtube.com/watch?v=WabTaFjSy1g) 26:47s
 
-### Astro LinkTree Clone Series by Stefan Rows
+### Astro LinkTree Clone Series by [Stefan Rows](https://www.youtube.com/@StefanRows)
 
 - [Astro LinkTree Clone Part #1 - Let''s Build! 🧑‍🚀](https://www.youtube.com/watch?v=DvWthdUtmhc) 45:47s
 - [Astro LinkTree Clone Part #2 - Netlify CMS Integration 🧑‍🚀](https://www.youtube.com/watch?v=tn9vUFJUx9k) 30:08s
