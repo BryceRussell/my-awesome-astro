@@ -1,9 +1,9 @@
 ## Official Links
 
-[Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Themes](https://astro.build/themes/) | [Official Templates](https://astro.new/)
----|---|---|---
+[Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Themes](https://astro.build/themes/) | [Official Templates](https://astro.new/) | [Blog](https://astro.build/blog/)
+---|---|---|---|---
 
-[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Mastadon @astro@webtoo.ls](https://m.webtoo.ls/@astro)
+[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Mastadon](https://m.webtoo.ls/@astro)
 ---|---|---
 
 [Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
