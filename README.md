@@ -1,15 +1,15 @@
 ## Official Links
 
-[Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Themes](https://astro.build/themes/) | [Official Templates](https://astro.new/) | [Blog](https://astro.build/blog/)
----|---|---|---|---
-
-[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Mastadon](https://m.webtoo.ls/@astro)
----|---|---
-
-[Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
----|---|---
+[Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Integrations](https://astro.build/integrations/) | [Themes](https://astro.build/themes/) | [Blog](https://astro.build/blog/) | [Showcase](https://astro.build/showcase/)
+---|---|---|---|---|---
 
 [Repository](https://astro.build/on/github) | [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md) | [Docs Repository](https://github.com/withastro/docs) | [RFC Repository](https://github.com/withastro/rfcs)
+---|---|---|---
+
+[Official Templates](https://astro.new/) | [Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
+---|---|---|---
+
+[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Youtube](https://www.youtube.com/@astrodotbuild) | [Mastadon](https://m.webtoo.ls/@astro)
 ---|---|---|---
 
 
