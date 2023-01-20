@@ -1,7 +1,3 @@
-<p align="center">
-  <a href="https://astro.build"><img src="https://github.com/withastro/astro/blob/main/assets/brand/logo.svg" alt="Astro logo"></a>
-</p>
-
 ## Official Links
 
 [Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Integrations](https://astro.build/integrations/) | [Themes](https://astro.build/themes/) | [Blog](https://astro.build/blog/) | [Showcase](https://astro.build/showcase/)
