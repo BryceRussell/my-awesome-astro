@@ -137,6 +137,7 @@
 
 - [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
 - [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
+  - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw) 
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
 
 ### If I want to add internationalization?
