@@ -131,7 +131,7 @@
 
 ### If I want to handle form submissions?
 
-- [astro-form-actions](https://github.com/pilcrowOnPaper/astro-form-actions) - SSR, utility for handling form submissions
+- [astro-form-actions](https://github.com/pilcrowOnPaper/astro-form-actions) - SSR, utility for handling form submissions inside Astro
 - [Web3Forms](https://web3forms.com/) - Receive form submissions directly in your email inbox without any server or back-end code
 
 ### If I want to add a CMS?
