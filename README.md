@@ -1,20 +1,23 @@
-## Official
+## Official Links
 
-### [Website](https://astro.build/)
-#### [Documentation](https://docs.astro.build/en/getting-started/)
-#### [Integrations](https://astro.build/integrations/)
-#### [Official Templates](https://astro.new/)
-#### [Themes](https://astro.build/themes/)
-#### [Discord](https://astro.build/chat)
-#### [Twitter](https://twitter.com/astrodotbuild)
-#### [Badges](https://astro.badg.es/)
-#### [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/)
-### [Repository](https://github.com/withastro/astro)
-#### [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md)
-#### [Docs Repository](https://github.com/withastro/docs)
-#### [RFC Repository](https://github.com/withastro/rfcs)
+[Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Themes](https://astro.build/themes/) | [Official Templates](https://astro.new/)
+---|---|---|---
 
-## What Do I Use
+[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Mastadon @astro@webtoo.ls](https://m.webtoo.ls/@astro)
+---|---
+
+[Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
+---|---|---
+
+[Repository](https://astro.build/on/github) | [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md) | [Docs Repository](https://github.com/withastro/docs) | [RFC Repository](https://github.com/withastro/rfcs)
+---|---|---|---
+
+
+## Resources
+### [FAQ](/FAQ.md)
+### [Youtube Content](/YOUTUBE.md)
+
+## What Do I Use...
 
 ### If I want to add a font?
 
