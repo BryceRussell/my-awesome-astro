@@ -85,6 +85,12 @@
 - [Tailwind @apply directive](https://tailwindcss.com/docs/functions-and-directives#apply) - Create global tailwind styles using @apply directive
 - [rehype-add-classes](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
 
+### If I want a CSS framework?
+
+- [Tailwindcss](https://docs.astro.build/en/guides/integrations-guide/tailwind/) - [Documentation](https://tailwindcss.com/docs/configuration)
+- [UnoCSS](https://github.com/unocss/unocss) - [Documentation](https://uno.antfu.me)
+- [Windi CSS](https://github.com/Dv-Dn/astro-integration-windicss) - [Documentation](https://windicss.org/guide/)
+
 ### If I want to add client side interactivity?
 
 [Client Side Scripting Guide](https://docs.astro.build/en/guides/client-side-scripts/)
@@ -135,20 +141,6 @@
 - [Web3Forms](https://web3forms.com/) - Receive form submissions directly in your email inbox without any server or back-end code
 - [Netlify Forms](https://www.netlify.com/products/forms/) - Just add the `netlify` attribute to any form and everything gets wired up automatically
 
-### If I want to add a CMS?
-
-[Connecting a CMS](https://docs.astro.build/en/guides/cms/)
-
-- [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
-- [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
-  - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw) 
-- [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
-
-### If I want to add internationalization?
-
-- [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
-- [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
-
 ### If I want to add a RSS feed?
 
 [What is RSS?](https://aboutfeeds.com/)
@@ -159,10 +151,23 @@
 
 - [@astrojs/sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/) - Automatically generates a sitemap based on your routes when you build your project
 
-### If I want to create a PWA?
+### If I want to add a CMS?
 
-- [@vite-pwa/astro](https://vite-pwa-org.netlify.app/frameworks/astro) - Astro integration for creating PWAs with [vite-pwa](https://vite-pwa-org.netlify.app/)
-- [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest, favion, icons
+[Connecting a CMS](https://docs.astro.build/en/guides/cms/)
+
+- [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
+- [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
+  - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw) 
+- [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
+
+### If I want to add E-Commerce?
+
+- [astro-snipcart](https://github.com/lloydjatkinson/astro-snipcart) - Astro integration for [Snipcart](https://snipcart.com/)
+
+### If I want to add internationalization?
+
+- [astro-i18next](https://github.com/yassinedoghri/astro-i18next) - Astro integration for [i18next](https://github.com/i18next/i18next)
+- [astro-i18n](https://github.com/alexandre-fernandez/astro-i18n) - A TypeScript-first internationalization library
 
 ### If I want to minify my website?
 
@@ -175,3 +180,8 @@
 ### If I want to add authentication?
 
 - [Lucia](https://lucia-auth.vercel.app/astro/start-here/getting-started) - Simple yet flexible user and session management library, provides an abstraction layer between your app and your database
+
+### If I want to create a PWA?
+
+- [@vite-pwa/astro](https://vite-pwa-org.netlify.app/frameworks/astro) - Astro integration for creating PWAs with [vite-pwa](https://vite-pwa-org.netlify.app/)
+- [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest, favion, icons
