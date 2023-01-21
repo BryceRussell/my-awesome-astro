@@ -103,6 +103,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 - [`<script>`](https://docs.astro.build/en/core-concepts/astro-components/#client-side-scripts)
 - [Web components](https://docs.astro.build/en/guides/client-side-scripts/#web-components-with-custom-elements)
+  - [astro-xelement](https://github.com/aFuzzyBear/xelement) - XElement allows you to build HTML-first, interactive web components by generating dynamic HTML elements for Astro all without the addition of any other JavaScript framework, renderer or library involved
 - [SolidJS](https://docs.astro.build/en/guides/integrations-guide/solid-js/)
 - [Preact](https://docs.astro.build/en/guides/integrations-guide/preact/)
 - [Lit](https://docs.astro.build/en/guides/integrations-guide/lit/)
@@ -110,7 +111,6 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [Vue](https://docs.astro.build/en/guides/integrations-guide/vue/)
 - [React](https://docs.astro.build/en/guides/integrations-guide/react/)
 - [AlpineJS](https://docs.astro.build/en/guides/integrations-guide/alpinejs/)
-- [astro-xelement](https://github.com/aFuzzyBear/xelement) - XElement allows you to build HTML-first, interactive web components by generating dynamic HTML elements for Astro all without the addition of any other JavaScript framework, renderer or library involved
 
 ### If I want to share state between components?
 
