@@ -62,6 +62,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
   - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
 - [@vercel/og](https://vercel.com/docs/concepts/functions/edge-functions/og-image-generation) - Vercel's official open graph image generation using [satori](https://github.com/vercel/satori)
   - [Adding Vercel og:image generation to Astro project with Edge functions - Thomas Ledoux](https://dev.to/thomasledoux1/adding-vercel-ogimage-generation-to-astro-project-with-edge-functions-4mj2)
+- [astro-og-canvas](https://github.com/delucis/astro-og-canvas/tree/latest/packages/astro-og-canvas) - This package provides utlities for generating OpenGraph images
 - [astro-og-image](https://www.npmjs.com/package/astro-og-image) - Screenshot pages as open graph images
 
 [Preview open graph images and meta tags of website](https://www.opengraph.xyz/)
