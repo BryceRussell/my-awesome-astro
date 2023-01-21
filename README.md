@@ -168,6 +168,7 @@
 
 - [astro-compress](https://github.com/astro-community/astro-compress) - Compresses CSS, HTML, JSON, JavaScript, Images, and SVGs
 - [astro-critters](https://github.com/astro-community/astro-critters) - Automatically inline the critical CSS
+- [Jampack](https://jampack.divriots.com/) - SSG, post build tool for optimizing static websites
 - [Netlify asset optimization](https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing)
   - [Control your asset optimization settings from `netlify.toml`](https://www.netlify.com/blog/2019/08/05/control-your-asset-optimization-settings-from-netlify.toml/)
 
