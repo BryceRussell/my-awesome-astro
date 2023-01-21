@@ -131,8 +131,9 @@
 
 ### If I want to handle form submissions?
 
-- [astro-form-actions](https://github.com/pilcrowOnPaper/astro-form-actions) - SSR, utility for handling form submissions inside of Astro
+- [astro-form-actions](https://github.com/pilcrowOnPaper/astro-form-actions) - SSR, utility for handling form submissions within Astro
 - [Web3Forms](https://web3forms.com/) - Receive form submissions directly in your email inbox without any server or back-end code
+- [Netlify Forms](https://www.netlify.com/products/forms/) - Just add the `netlify` attribute to any form and everything gets wired up automatically
 
 ### If I want to add a CMS?
 
