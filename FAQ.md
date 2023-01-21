@@ -20,6 +20,16 @@ Astro components cannot be used inside of [UI Framework components](https://docs
 - [Use slots](https://docs.astro.build/en/core-concepts/astro-components/#slots) to pass Astro components to [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
 - Turn your [UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) into a Astro component by wrapping with a `.astro` file
 
+### How do I use env variables?
+
+[Using Enviroment Variables](https://docs.astro.build/en/guides/environment-variables/#getting-environment-variables)
+
+You can use `import.meta.env` to access enviroment vairables inside of `.env`
+
+`.env` variables can only be accessed server side by default if you want to expose a `.env` variable 1client side the variable must be prefixed with `PUBLIC_`, DO NOT do this with secrets like API keys
+
+If your `.env` variable can't be exposed publicly but you need it for data client side you can try creating an [API endpoint](https://docs.astro.build/en/core-concepts/endpoints) that uses the secret env variable to return JSON
+
 ### Why can't I create a tailwind class dynamically?
 
 [Dynamic Class Names](https://tailwindcss.com/docs/content-configuration#dynamic-class-names)
