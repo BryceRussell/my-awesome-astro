@@ -30,6 +30,46 @@ You can use `import.meta.env` to access enviroment vairables inside of `.env`
 
 If your `.env` variable can't be exposed publicly but you need it for data client side you can try creating an [API endpoint](https://docs.astro.build/en/core-concepts/endpoints) that uses the secret env variable to return JSON
 
+### How do I use an imported asset in CSS?
+
+- [define:vars](https://docs.astro.build/en/reference/directives-reference/#definevars)
+- [set:html](https://docs.astro.build/en/reference/directives-reference/#sethtml)
+
+```jsx
+---
+import bg from '../images/bg.png'
+---
+// Using 'define:vars'
+<style define:vars={{
+  bg: `url("${bg}")` 
+}}>
+  // creates variable '--bg: url("...");'
+</style>
+
+// Using 'style' attribute
+<div style={`background-image:url("${bg}");`}></div>
+<div style={`--bg:url("${bg}");`}></div>
+
+// Using 'set:html'
+<style set:html={`
+  body {
+    background-image: url("${bg}");
+  }
+`}/>
+```
+
+### How do I pass variables to JSON inside of a `<script>`?
+
+Using [set:html](https://docs.astro.build/en/reference/directives-reference/#sethtml) with a [template string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+```jsx
+<script set:html={`
+  {
+    "key": "${value}"
+  }
+`}/>
+```
+
 ### Why can't I create a tailwind class dynamically?
 
 [Dynamic Class Names](https://tailwindcss.com/docs/content-configuration#dynamic-class-names)
