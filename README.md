@@ -93,6 +93,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [Tailwindcss](https://docs.astro.build/en/guides/integrations-guide/tailwind/) - [Documentation](https://tailwindcss.com/docs/configuration)
 - [UnoCSS](https://github.com/unocss/unocss) - [Documentation](https://uno.antfu.me)
 - [Windi CSS](https://github.com/Dv-Dn/astro-integration-windicss) - [Documentation](https://windicss.org/guide/)
+- [Stylify](https://stylifycss.com/docs/integrations/astro) - [Documentation](https://stylifycss.com/docs/get-started)
 
 ### If I want to add client side interactivity?
 
@@ -109,6 +110,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [Vue](https://docs.astro.build/en/guides/integrations-guide/vue/)
 - [React](https://docs.astro.build/en/guides/integrations-guide/react/)
 - [AlpineJS](https://docs.astro.build/en/guides/integrations-guide/alpinejs/)
+- [astro-xelement](https://github.com/aFuzzyBear/xelement) - XElement allows you to build HTML-first, interactive web components by generating dynamic HTML elements for Astro all without the addition of any other JavaScript framework, renderer or library involved
 
 ### If I want to share state between components?
 
