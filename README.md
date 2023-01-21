@@ -73,8 +73,8 @@
 
 [Fetching Remote Markdown](https://docs.astro.build/en/guides/markdown-content/#fetching-remote-markdown)
 
-- [astro-remote](https://github.com/natemoo-re/astro-remote) - SSR(Recommended), render remote markdown content in Astro with full control over the output
-- [@astropub/md](https://github.com/astro-community/md) - SSG(Recommended), `<Markdown>` component and function, uses built in `renderMarkdown()` utility
+- [astro-remote](https://github.com/natemoo-re/astro-remote) - (Recommended) SSR, render remote markdown content in Astro with full control over the output
+- [@astropub/md](https://github.com/astro-community/md) - (Recommended) SSG, render markdown using settings defined in Astro config
   - [@astrojs/markdown-remark](https://github.com/withastro/astro/blob/52209ca2ad72a30854947dcb3a90ab4db0ac0a6f/packages/markdown/remark/src/index.ts#L42) - SSG, built in `renderMarkdown()` utility for rendering markdown using Astro
 - [@astrojs/markdown-component](https://github.com/withastro/astro/tree/main/packages/markdown/component) - SSG, `<Markdown>` component
 
