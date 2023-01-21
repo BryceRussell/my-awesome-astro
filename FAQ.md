@@ -4,7 +4,11 @@
 
 ### Why is my `<style>` tag not applying styles?
 
-`<style>` tags in Astro are [scoped by default](https://docs.astro.build/en/guides/styling/#scoped-styles) meaning styles will only be applied to HTML inside of the file. To opt out of scoping you can use [global styles](https://docs.astro.build/en/guides/styling/#global-styles)
+`<style>` tags in Astro are [scoped by default](https://docs.astro.build/en/guides/styling/#scoped-styles), this means the styles will only be applied to HTML inside of the file. To opt out of scoping you can use [global styles](https://docs.astro.build/en/guides/styling/#global-styles)
+
+### Why is my `<script>` tag not working?
+
+`<script>` tags are [hoisted as modules by default](https://docs.astro.build/en/guides/client-side-scripts/#script-bundling), if your `<script>` tagis not working it most likely needs an [`is:inline` directive](https://docs.astro.build/en/reference/directives-reference/#isinline) to opt out of hoisting
 
 ### Why is the JavaScript for my component not working?
 
