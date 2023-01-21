@@ -12,6 +12,9 @@
 [Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Youtube](https://www.youtube.com/@astrodotbuild) | [Mastadon](https://m.webtoo.ls/@astro)
 ---|---|---|---
 
+## Support
+
+Need help? [Join the Discord](https://astro.build/chat) and create a post in the [`#support`](https://discord.com/channels/830184174198718474/1019713903481081876) channel
 
 ## Resources
 ### [FAQ](/FAQ.md)
