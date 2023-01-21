@@ -42,6 +42,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [@astropub/icons](https://github.com/astro-community/icons) - Icon components for [Radix icons](https://icons.radix-ui.com/)
 - [phosphor-astro](https://github.com/seanmcp/phosphor-astro) - Icon components for [Phosphor icons](https://phosphoricons.com/)
 - [astro-svg-loaders](https://github.com/codiume/orbit/tree/main/packages/astro-svg-loaders) - Icon components for [svg loading icons by @SamHerbert](https://github.com/SamHerbert/SVG-Loaders)
+- [astro-emoji](https://github.com/seanmcp/astro-emoji) Create accessible emojies
 
 ### If I want to add SEO?
 
