@@ -48,8 +48,9 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 - [astro-seo](https://github.com/jonasmerlin/astro-seo) - (Recommended) Most popular `<SEO>` component
 - [@astrolib/seo](https://github.com/onwidget/astrolib/tree/main/packages/seo) - Based on [NextSEO](https://github.com/garmeeh/next-seo)
-- [astro-seo-metadata](https://github.com/JulianCataldo/web-garden/tree/develop/app/SEOMetadata) - Minimal SEO component 
 - [astro-seo-meta](https://github.com/codiume/orbit/tree/main/packages/astro-seo-meta) - Minimal SEO component
+- [simple-astro-seo](https://github.com/perkinsjr/simple-astro-seo) - Minimal SEO component
+- [astro-seo-metadata](https://github.com/JulianCataldo/web-garden/tree/develop/app/SEOMetadata) - Minimal SEO component
 
 ### If I want to create open graph images?
 
@@ -144,6 +145,8 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 ### If I want to handle form submissions?
 
 - [astro-form-actions](https://github.com/pilcrowOnPaper/astro-form-actions) - SSR, utility for handling form submissions within Astro
+- [@astro-reactive/form](https://www.npmjs.com/package/@astro-reactive/form) - Generate a dynamic form based on your data, and modify programmatically
+  - [@astro-reactive/validator](https://www.npmjs.com/package/@astro-reactive/validator) - Easily set up validators for your forms
 - [Web3Forms](https://web3forms.com/) - Receive form submissions directly in your email inbox without any server or back-end code
 - [Netlify Forms](https://www.netlify.com/products/forms/) - Just add the `netlify` attribute to any form and everything gets wired up automatically
 
@@ -179,6 +182,8 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 - [astro-compress](https://github.com/astro-community/astro-compress) - Compresses CSS, HTML, JSON, JavaScript, Images, and SVGs
 - [astro-critters](https://github.com/astro-community/astro-critters) - Automatically inline the critical CSS
+- [astro-html-minifier](https://github.com/sondr3/astro-html-minifier) - HTML minifier for Astro
+- [astro-purgecss](https://github.com/codiume/orbit/tree/main/packages/astro-purgecss) - Integration for [purgecss](https://purgecss.com/) helps you remove unused CSS rules from your final astro bundle.
 - [Jampack](https://jampack.divriots.com/) - SSG, post build tool for optimizing static websites
 - [Netlify asset optimization](https://docs.netlify.com/configure-builds/file-based-configuration/#post-processing)
   - [Control your asset optimization settings from `netlify.toml`](https://www.netlify.com/blog/2019/08/05/control-your-asset-optimization-settings-from-netlify.toml/)
