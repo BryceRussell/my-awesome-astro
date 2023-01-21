@@ -85,7 +85,7 @@
 - [Tailwind @apply directive](https://tailwindcss.com/docs/functions-and-directives#apply) - Create global tailwind styles using @apply directive
 - [rehype-add-classes](https://github.com/martypdx/rehype-add-classes) - Markdown plugin that lets you add classes(tailwind) to selectors
 
-### If I want a CSS framework?
+### If I want to use a CSS framework?
 
 - [Tailwindcss](https://docs.astro.build/en/guides/integrations-guide/tailwind/) - [Documentation](https://tailwindcss.com/docs/configuration)
 - [UnoCSS](https://github.com/unocss/unocss) - [Documentation](https://uno.antfu.me)
