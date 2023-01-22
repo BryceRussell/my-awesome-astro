@@ -2,6 +2,12 @@
 
 ## Questions
 
+### Why do Astro commands like `astro dev` not work?
+
+If your project was just cloned you make sure to use `npm i` to install node dependencies
+
+Another issue could be your version of Node, Astro 2.0 is compatible with `v16.12` - `v18`,  while Astro 1.0 is only compatible up to `v17`
+
 ### Why is my `<style>` tag not applying styles?
 
 `<style>` tags in Astro are [scoped by default](https://docs.astro.build/en/guides/styling/#scoped-styles), this means the styles will only be applied to HTML inside of the file. To opt out of scoping you can use [global styles](https://docs.astro.build/en/guides/styling/#global-styles)
@@ -36,6 +42,7 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
   <span></span>
 ))}
 
+// '{}' requires 'return'
 { array.map((i) => {
   return <span></span>
 })}
@@ -55,8 +62,8 @@ Astro components cannot be used inside of [UI Framework components](https://docs
 
 **Alternatives**:
 
-- [Use slots](https://docs.astro.build/en/core-concepts/astro-components/#slots) to pass Astro components to [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
 - Use props to pass [Astro variables](https://docs.astro.build/en/reference/api-reference/#astro-global) like `Astro.url.pathname`
+- [Use slots](https://docs.astro.build/en/core-concepts/astro-components/#slots) to pass Astro components to [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
 - Wrap your [UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) with a `.astro` file
 
 ### How do I use env variables?
