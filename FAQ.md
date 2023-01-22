@@ -42,14 +42,27 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
   <span></span>
 ))}
 
+{ array.map((i) => <>
+  <span></span>
+</>)}
+
 // '{}' requires 'return'
+
 { array.map((i) => {
   return <span></span>
 })}
 
-{ array.map((i) => <>
-  <span></span>
-</>)}
+{ array.map((i) => {
+  return (
+    <span></span>
+  )
+})}
+
+{ array.map((i) => {
+  return <>
+    <span></span>
+  </>
+})}
 ```
 
 ### Why is the JavaScript for my component not working?
