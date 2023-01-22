@@ -16,6 +16,12 @@ Another issue could be your version of Node, Astro 2.0 is compatible with `v16.1
 
 `<script>` tags are [hoisted as modules by default](https://docs.astro.build/en/guides/client-side-scripts/#script-bundling), if your `<script>` tag is not working it most likely needs an [`is:inline` directive](https://docs.astro.build/en/reference/directives-reference/#isinline) to opt out of hoisting
 
+### How do I use frontmatter variables in my `<script>` tag?
+
+You can use the [`define:vars` directive](https://docs.astro.build/en/reference/directives-reference/#definevars) to pass frontmatter variables to a `<script>` tag. Using this directive also applies the [`is:inline` directive](https://docs.astro.build/en/reference/directives-reference/#isinline)
+
+If you want to [avoid `define:vars`](https://docs.astro.build/en/guides/client-side-scripts/#pass-frontmatter-variables-to-scripts) another option is using [`data-*` attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes) 
+
 ### How do I conditionaly render something?
 
 ```jsx
@@ -133,7 +139,7 @@ Using [set:html](https://docs.astro.build/en/reference/directives-reference/#set
 
 [Dynamic Class Names](https://tailwindcss.com/docs/content-configuration#dynamic-class-names)
 
-Tailwind classes must be statically analyzable, classes must exist inside the project files as a full unbroken string in order for tailwind to find the class and generate a style for it
+Tailwind classes must be statically analyzable, this means classes must exist inside the project files as a full unbroken string in order for tailwind to find the class and generate a style for it
 
 ### How do I avoid using relative imports ('../../Component.astro')?
 
