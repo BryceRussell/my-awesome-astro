@@ -65,7 +65,7 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
 })}
 ```
 
-### Why is the JavaScript for my component not working?
+### Why is my component's JavaScript not working?
 
 [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/) require a [client directive](https://docs.astro.build/en/reference/directives-reference/#client-directives) to control how the component is hydrated onto the page
 
