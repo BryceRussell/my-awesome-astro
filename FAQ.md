@@ -83,7 +83,7 @@ Astro components cannot be used inside of [UI Framework components](https://docs
 
 [Using Enviroment Variables](https://docs.astro.build/en/guides/environment-variables/#getting-environment-variables)
 
-You can use `import.meta.env` to access enviroment vairables inside of `.env`
+You can use `import.meta.env` to access enviroment variables inside of `.env`
 
 `.env` variables can only be accessed server side by default if you want to expose a `.env` variable 1client side the variable must be prefixed with `PUBLIC_`, DO NOT do this with secrets like API keys
 
