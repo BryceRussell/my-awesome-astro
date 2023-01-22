@@ -8,7 +8,42 @@
 
 ### Why is my `<script>` tag not working?
 
-`<script>` tags are [hoisted as modules by default](https://docs.astro.build/en/guides/client-side-scripts/#script-bundling), if your `<script>` tagis not working it most likely needs an [`is:inline` directive](https://docs.astro.build/en/reference/directives-reference/#isinline) to opt out of hoisting
+`<script>` tags are [hoisted as modules by default](https://docs.astro.build/en/guides/client-side-scripts/#script-bundling), if your `<script>` tag is not working it most likely needs an [`is:inline` directive](https://docs.astro.build/en/reference/directives-reference/#isinline) to opt out of hoisting
+
+### How do I conditionaly render something?
+
+```jsx
+{ boolean && 
+  <span>True</span>
+}
+```
+
+```jsx
+{ boolean
+  ? <span>True</span>
+  : <span>False</span>
+}
+```
+
+### Why is my `.map()` not rendering anything?
+
+If your `.map()` is not rendering anything make sure that it is formatted correctly
+
+```jsx
+{ array.map((i) => <span>{i}</span>) }
+
+{ array.map((i) => (
+  <span></span>
+))}
+
+{ array.map((i) => {
+  return <span></span>
+})}
+
+{ array.map((i) => <>
+  <span></span>
+</>)}
+```
 
 ### Why is the JavaScript for my component not working?
 
@@ -20,9 +55,9 @@ Astro components cannot be used inside of [UI Framework components](https://docs
 
 **Alternatives**:
 
-- Use props to pass [Astro variables](https://docs.astro.build/en/reference/api-reference/#astro-global) like `Astro.url.pathname`
 - [Use slots](https://docs.astro.build/en/core-concepts/astro-components/#slots) to pass Astro components to [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/)
-- Turn your [UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) into a Astro component by wrapping with a `.astro` file
+- Use props to pass [Astro variables](https://docs.astro.build/en/reference/api-reference/#astro-global) like `Astro.url.pathname`
+- Wrap your [UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) with a `.astro` file
 
 ### How do I use env variables?
 
