@@ -4,7 +4,7 @@
 
 ### Why do Astro commands like `astro dev` not work?
 
-If your project was just cloned you make sure to use `npm i` to install node dependencies
+If your project was just cloned make sure to use `npm i` to install node dependencies
 
 Another issue could be your version of Node, Astro 2.0 is compatible with `v16.12` - `v18`,  while Astro 1.0 is only compatible up to `v17`
 
