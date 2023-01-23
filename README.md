@@ -65,7 +65,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [astro-og-canvas](https://github.com/delucis/astro-og-canvas/tree/latest/packages/astro-og-canvas) - This package provides utlities for generating OpenGraph images
 - [astro-og-image](https://www.npmjs.com/package/astro-og-image) - Screenshot pages as open graph images
 
-[Preview open graph images and meta tags of website](https://www.opengraph.xyz/)
+[Tool for previewing open graph images and meta tags](https://www.opengraph.xyz/)
 
 ### If I want to add optimized images?
 
