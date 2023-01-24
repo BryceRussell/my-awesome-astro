@@ -12,6 +12,10 @@ Another issue could be your version of Node, Astro 2.0 is compatible with `v16.1
 
 `<style>` tags in Astro are [scoped by default](https://docs.astro.build/en/guides/styling/#scoped-styles), this means the styles will only be applied to HTML inside of the file. To opt out of scoping you can use [global styles](https://docs.astro.build/en/guides/styling/#global-styles)
 
+### Why do I have duplicated CSS styles?
+
+Styles are only duplicated when using the dev server, if you build and preview the website using `npm run build` and `npm run preview` then the styles will not be duplicated
+
 ### Why is my `<script>` tag not working?
 
 `<script>` tags are [hoisted as modules by default](https://docs.astro.build/en/guides/client-side-scripts/#script-bundling), if your `<script>` tag is not working it most likely needs an [`is:inline` directive](https://docs.astro.build/en/reference/directives-reference/#isinline) to opt out of hoisting
