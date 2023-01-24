@@ -41,6 +41,7 @@
 - [Tutorial | RSS feeds with Astro | Static Site Generation | Blogs - Future Web Design](https://www.youtube.com/watch?v=yI_QJxbQwUk) 10:16s
 - [Astro IS SO GOOD - ThePrimeagen](https://www.youtube.com/watch?v=Sqp5VSqbQOY) 11:15s
 - [How I built my website with Astro - A short introduction to astro.build - Weibenfalk](https://www.youtube.com/watch?v=igNXhXTthes) 11:20s
+- [Typesafe Markdown With Astro Content Collections - Learn with Jason](https://www.youtube.com/watch?v=TfD4RW2gR-s) 12:31s
 - [Adding a Click to Copy Code Block to the Astro & Sanity Starter - Little Sticks](https://www.youtube.com/watch?v=WVRLCaRfg8E) 12:32s
 - [I Tried Astro Build and I LOVE IT - 5 Reasons You Will TOO! - James Q Quick](https://www.youtube.com/watch?v=wND4lSml31A) 12:47s
 - [Astro Google Analytics Integration - Quick & Easy - Stefan Rows](https://www.youtube.com/watch?v=HHQzJtgeSC4) 12:57s
@@ -84,7 +85,7 @@
 - [How To Create a Link in Bio Page for Instagram with Astro - Little Sticks](https://www.youtube.com/watch?v=elKCpg7TerA) 44:48s
 - [Deep dive into Astro v1.0, a JavaScript Framework - Thomas Reggi](https://www.youtube.com/watch?v=ua1HyjKcDnw) 47:38s
 - [Astro Crash Course | Most Of Astro In One Video - CodeLit](https://www.youtube.com/watch?v=YAXiDgaTMjE) 50:31s
-- [New Astro 2.0 👨‍🚀🚀 Content Collections API Deep Dive](https://www.youtube.com/watch?v=zUmqmuSvJMs) - 53:05s
+- [New Astro 2.0 👨‍🚀🚀 Content Collections API Deep Dive - Coding in Public](https://www.youtube.com/watch?v=zUmqmuSvJMs) - 53:05s
 - [Build and host a website in under an hour using Astro - AnuRock.dev](https://www.youtube.com/watch?v=A_zOkryRiF0) 57:01s
 - [Responsive Website with Navbar, Sidebar and Dropdown Menus | React, Tailwind CSS, Astro JS - Carlos Mafla](https://www.youtube.com/watch?v=u5_3Ze3nHwQ) 1:00:07s
 - [Astro Crash Course - Traversy Media](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 1:35:18s
