@@ -22,7 +22,7 @@ You can use the [`define:vars` directive](https://docs.astro.build/en/reference/
 
 If you want to [avoid `define:vars`](https://docs.astro.build/en/guides/client-side-scripts/#pass-frontmatter-variables-to-scripts) another option is using [`data-*` attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes) 
 
-### How do I conditionaly render something?
+### How do I conditionally render something?
 
 ```jsx
 { boolean && 
