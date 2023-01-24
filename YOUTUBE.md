@@ -1,7 +1,5 @@
 # Astro content on Youtube
 
-> **Note**: All videos are sorted by video length
-
 [Videos](#videos) | [Livestreams](#livestreams) | [Shorts](#shorts) | [Series](#series)
 ---|---|---|---
 
