@@ -191,6 +191,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 ### If I want to add authentication?
 
+- [astro-auth](https://github.com/nowaythatworked/auth-astro) - Astro integration for Auth.js
 - [Lucia](https://lucia-auth.vercel.app/astro/start-here/getting-started) - Simple yet flexible user and session management library, provides an abstraction layer between your app and your database
 
 ### If I want to create a PWA?
