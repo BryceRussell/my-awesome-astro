@@ -70,6 +70,7 @@
 - [Odyssey Theme for Astro & We're Rebranding!! - Little Sticks](https://www.youtube.com/watch?v=7B74jDONNdk) 22:48s
 - [Advanced Astro | Using React with Astro, Pagination And More - CodeLit](https://www.youtube.com/watch?v=yuvKqZdkqa8) 22:54s
 - [Create template layouts for your HTML with Astro SSG - Kevin Powell](https://www.youtube.com/watch?v=o7iQAF2EvUU) 24:28s
+- [Astro 2.0 is Revolutionary! Again! - Jack Herrington](https://www.youtube.com/watch?v=gi4c7fbeURc) 26:04s
 - [AM Coder - Astro! Use React, Svelte, Vue and Web Components in one Static Site Generator! (Overview) - Alex Merced - Full Stack Developer](https://www.youtube.com/watch?v=ncj-KwGutBc) 26:21s
 - [Yapping About Astro - CSS-Tricks](https://www.youtube.com/watch?v=3jPaidbpUIA) 26:38s
 - [Astro - Complete tutorial - yoursTRULY](https://www.youtube.com/watch?v=Mh3tVohMNmQ) 28:38s
