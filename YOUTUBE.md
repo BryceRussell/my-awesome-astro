@@ -86,6 +86,7 @@
 - [How To Create a Link in Bio Page for Instagram with Astro - Little Sticks](https://www.youtube.com/watch?v=elKCpg7TerA) 44:48s
 - [Deep dive into Astro v1.0, a JavaScript Framework - Thomas Reggi](https://www.youtube.com/watch?v=ua1HyjKcDnw) 47:38s
 - [Astro Crash Course | Most Of Astro In One Video - CodeLit](https://www.youtube.com/watch?v=YAXiDgaTMjE) 50:31s
+- [New Astro 2.0 👨‍🚀🚀 Content Collections API Deep Dive](https://www.youtube.com/watch?v=zUmqmuSvJMs) - 53:05s
 - [Build and host a website in under an hour using Astro - AnuRock.dev](https://www.youtube.com/watch?v=A_zOkryRiF0) 57:01s
 - [Responsive Website with Navbar, Sidebar and Dropdown Menus | React, Tailwind CSS, Astro JS - Carlos Mafla](https://www.youtube.com/watch?v=u5_3Ze3nHwQ) 1:00:07s
 - [Astro Crash Course - Traversy Media](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 1:35:18s
