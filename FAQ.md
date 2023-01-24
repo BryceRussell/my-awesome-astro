@@ -71,6 +71,15 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
 })}
 ```
 
+### How do I loop X number of time using JSX?
+
+```jsx
+// Loops 10 times, returns index as argument
+[...Array(10).keys()].map(index => {
+  return <li>{i + 1}</li>
+})
+```
+
 ### Why is my component's JavaScript not working?
 
 [UI Framework components](https://docs.astro.build/en/core-concepts/framework-components/) require a [client directive](https://docs.astro.build/en/reference/directives-reference/#client-directives) to control how the component is hydrated onto the page
