@@ -80,7 +80,7 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
 ```jsx
 // Loops 10 times, returns index as argument
 [...Array(10).keys()].map(index => {
-  return <li>{i + 1}</li>
+  return <li>{index + 1}</li>
 })
 ```
 
