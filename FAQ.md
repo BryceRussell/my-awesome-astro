@@ -8,6 +8,15 @@ If your project was just cloned make sure to use `npm i` to install node depende
 
 Another issue could be your version of Node, Astro 2.0 is compatible with `v16.12` - `v18`,  while Astro 1.0 is only compatible up to `v17`
 
+### Why is `astro-icon` not working?
+
+There could be a few issues:
+
+- Icons have no size by default, add a `size={number}` prop or [use CSS to size icon](https://github.com/natemoo-re/astro-icon#styling)
+- Some packs and icons don't work and throw a `Error: Not Found` warning, you can try [finding an alternative](https://icon-sets.iconify.design/)
+- Your using an Astro component (server side) in a 
+[UI Framework component](https://docs.astro.build/en/core-concepts/framework-components/) (client side), instead pass the icon using slots
+
 ### Why is my `<style>` tag not applying styles?
 
 `<style>` tags in Astro are [scoped by default](https://docs.astro.build/en/guides/styling/#scoped-styles), this means the styles will only be applied to HTML inside of the file. To opt out of scoping you can use [global styles](https://docs.astro.build/en/guides/styling/#global-styles)
@@ -15,6 +24,12 @@ Another issue could be your version of Node, Astro 2.0 is compatible with `v16.1
 ### Why do I have duplicated CSS styles?
 
 Styles are only duplicated when using the dev server, if you build and preview the website using `npm run build` and `npm run preview` then the styles will not be duplicated
+
+### Why is my image blurry when using `@astojs/image`?
+
+The `height` and `width` props of your image must be 1.5x - 2x larger than the CSS size of the image
+
+[Reponsive Image Rabbit Hole – Part 3 - Scott Willsey](https://scottwillsey.com/image-rabbit-hole-3/)
 
 ### Why is my `<script>` tag not working?
 
