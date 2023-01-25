@@ -76,7 +76,7 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
 
 // Nested Map
 { array.map((i) => <>
-  { array.map((e) => <>
+  { array.map((i) => <>
     <span></span>
   </>)}
 </>)}
