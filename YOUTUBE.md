@@ -80,6 +80,7 @@
 - [Getting started with astro.build featuring bholmesdev - whitep4nth3r](https://www.youtube.com/watch?v=A3HDN_dPq7k) 32:56s
 - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw) 35:27s
 - [Let's Create a Splashy Splash Page with Astro 💦 - Little Sticks](https://www.youtube.com/watch?v=o58kSpPMuuI) 36:42s
+- [Sarah Rainsberger - Happy Contributors, High Standards pick two! Balancing quality and community - Write the Docs](https://www.youtube.com/watch?v=emgFALmCyrY) 37:35s
 - [Take your Astro blog to the next level - James Perkins](https://www.youtube.com/watch?v=IEpP05XSwWE) 42:26s
 - [NextJS to Astro: more control = faster sites - Jack Herrington](https://www.youtube.com/watch?v=PSzCtdM20Fc) 43:27s
 - [Using Astro.build - Vue.js Frankfurt meetup - Vue Germany](https://www.youtube.com/watch?v=htPQ1JIy1-o) 44:21s
