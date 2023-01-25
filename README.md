@@ -19,6 +19,8 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 ## Resources
 ### [FAQ](/FAQ.md)
 ### [Youtube Content](/YOUTUBE.md)
+### [Blog Posts](/BLOGS.md)
+### [Examples](/EXAMPLES.md)
 
 ## What Do I Use...
 
