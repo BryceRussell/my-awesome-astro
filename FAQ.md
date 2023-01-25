@@ -73,6 +73,13 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
     <span></span>
   </>
 })}
+
+// Nested Map
+{ array.map((i) => <>
+  { array.map((e) => <>
+    <span></span>
+  </>)}
+</>)}
 ```
 
 ### How do I loop X number of time using JSX?
