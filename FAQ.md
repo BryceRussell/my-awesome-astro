@@ -85,10 +85,15 @@ If your `.map()` is not rendering anything make sure that it is formatted correc
 ### How do I loop X number of time using JSX?
 
 ```jsx
-// Loops 10 times, returns index as argument
-[...Array(10).keys()].map(index => {
-  return <li>{index + 1}</li>
+// Loops 3 times, returns index as argument
+[...Array(3).keys()].map(index => {
+  return <li>{i}</li>
 })
+```
+```html
+<li>0</li>
+<li>1</li>
+<li>2</li>
 ```
 
 ### Why is my component's JavaScript not working?
