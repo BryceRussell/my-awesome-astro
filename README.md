@@ -9,8 +9,8 @@
 [Official Templates](https://astro.new/) | [Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
 ---|---|---|---
 
-[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Youtube](https://www.youtube.com/@astrodotbuild) | [Mastadon](https://m.webtoo.ls/@astro)
----|---|---|---
+[Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Youtube](https://www.youtube.com/@astrodotbuild) | [Mastadon](https://m.webtoo.ls/@astro) | [Open Collective](https://opencollective.com/astrodotbuild)
+---|---|---|---|---
 
 ## Support
 
