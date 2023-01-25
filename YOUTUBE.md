@@ -126,6 +126,7 @@
 - [Edge render anything with Astro, with Ben Holmes, Software Developer @ astro.build - Nick Taylor](https://www.youtube.com/watch?v=E19r1WuRycM) 1:27:53s
 - [Smooth Page Transitions with Astro & the Shared Element Transition API - Learn With Jason](https://www.youtube.com/watch?v=6mv0_jsWhoE) 1:27:59s
 - [web.talks: Getting Started with Astro - PWA Pilipinas](https://www.youtube.com/watch?v=dZF_3_vUceY) 1:28:45s
+- [Making documentation developers love with Sarah Rainsberger - Kelvin Omereshone](https://www.youtube.com/watch?v=YW4IfoJM30g) 1:28:50s
 - [Ship Less JavaScript with Astro (with Fred K. Schott) — Learn With Jason](https://www.youtube.com/watch?v=z15YLsLMtu4) 1:29:08s
 - [Astro Added SSR??! Fred K Schott on Web Dev Wednesday - Theo - t3.gg](https://www.youtube.com/watch?v=fp3mYVoMN7w) 1:29:46s
 - [What’s New in Astro v1? - Learn With Jason](https://www.youtube.com/watch?v=Wh1x5SYN5y0) 1:30:39s
