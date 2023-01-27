@@ -16,6 +16,7 @@
 - [Islands Architecture explained (by Astro's Fred K. Schott) - Changelog](https://www.youtube.com/watch?v=e-vEFRtk4-0) 4:02s
 - [How to manage state in Astro applications? - CodeWithLuke](https://www.youtube.com/watch?v=R3N_zg7Lz6Q) 4:06s
 - [Setting up a new Astro project in Gitpod - Sarah Rainsberger](https://www.youtube.com/watch?v=fxkkh3oE48Y) 4:32s
+- [Content Collections are game changing - James Perkins](https://www.youtube.com/watch?v=BvpkX1OEReI) 4:51s
 - [Demo of WPGraphQL JWT Auth with Astro and Vue - WP Engine Builders](https://www.youtube.com/watch?v=oYUqID-9KF0) 5:18s
 - [Add Responsive YouTube Videos to Astro.JS MDX - Bit Doze](https://www.youtube.com/watch?v=NkShQ1wwiCg) 5:24s
 - [Using Astro with YOUR favourite UI library (React example) - Eddie Jaoude](https://www.youtube.com/watch?v=SoezjkNppkE) 5:32s
