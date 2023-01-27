@@ -6,7 +6,7 @@
 [Repository](https://astro.build/on/github) | [Docs Repository](https://github.com/withastro/docs) | [RFC Repository](https://github.com/withastro/rfcs) | [Changelog](https://github.com/withastro/astro/blob/main/packages/astro/CHANGELOG.md) | [Roadmap](https://github.com/orgs/withastro/projects/11)
 ---|---|---|---|---
 
-[Huoston](https://houston.astro.build/) | [Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
+[Huoston](https://astro.build/) | [Badges](https://astro.badg.es/) | [Hyperdrive Speedometer](https://hyperdrive-speedometer.netlify.app/) | [VS Code Theme](https://marketplace.visualstudio.com/items?itemName=astro-build.houston)
 ---|---|---|---
 
 [Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Youtube](https://www.youtube.com/@astrodotbuild) | [Mastadon](https://m.webtoo.ls/@astro) | [Open Collective](https://opencollective.com/astrodotbuild)
