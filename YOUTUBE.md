@@ -238,7 +238,7 @@
 - [Build A Website with Astro, TailwindCSS and React (#3 - Mobile Header)](https://www.youtube.com/watch?v=hy4zTUSzGOU) 23:24s
 - [Build A Website with Astro, TailwindCSS and React (#4 - Taxonomies and Authors)](https://www.youtube.com/watch?v=8z0AyPqKf9M) 30:09s
 
-## Chris Bongers on Integrating Typesense search to an Astro static website by [Aviyel](https://www.youtube.com/@AviyelHq)
+### Chris Bongers on Integrating Typesense search to an Astro static website by [Aviyel](https://www.youtube.com/@AviyelHq)
 
 - [Chris Bongers on Integrating Typesense search to an Astro static website Part 1](https://www.youtube.com/watch?v=LU5utR5S6Bc)
 - [Chris Bongers on Integrating Typesense search to an Astro static website Part 2](https://www.youtube.com/watch?v=Cx9fXvzNbWk)
