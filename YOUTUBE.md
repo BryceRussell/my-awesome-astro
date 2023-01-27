@@ -31,6 +31,7 @@
 - [Why Use Astro - Chris Hawkes](https://www.youtube.com/watch?v=8mE1Auts20Q) 8:07s
 - [What is Astro? - Kodaps Academy](https://www.youtube.com/watch?v=oQDErNNzdwU) 8:15s
 - [Updating my Astro + Sanity Minimal Starter! (Sanity Block Content To React) - Little Sticks](https://www.youtube.com/watch?v=dB7CmFLQiSs) 8:28s
+- [How I hosted my Astro website - Web Dev Cody](https://www.youtube.com/watch?v=0x0IPGpBxCM) 8:34s
 - [Create a Custom Blog with Astro & NetlifyCMS in MINUTES! - Kumail Pirzada](https://www.youtube.com/watch?v=3yip2wSRX_4) 8:56s
 - [Astro: less JavaScript, Faster Website - Elian Van Cutsem - BeJS](https://www.youtube.com/watch?v=6llrwAmzKY0) 9:01s
 - [Why Astro will be your favorite web app framework - DevTrends](https://www.youtube.com/watch?v=qEUzK1g9Hu8) 9:18s
@@ -67,6 +68,7 @@
 - [Create a Link in Bio Page for Instagram with Sanity.io - Little Sticks](https://www.youtube.com/watch?v=GNFr8uHG0rw) 21:10s
 - [Add Copy To Clipboard Buttons To Code Blocks - Little Sticks](https://www.youtube.com/watch?v=_0eBQREJTDo) 21:59s
 - [Astro Crash Course in 20 Minutes! - Coding in Public](https://www.youtube.com/watch?v=zrPVTf761OI) 22:06s
+- [Islands Architecture, Astro, and You | Nate Moore | ViteConf 2022 - ViteConf](https://www.youtube.com/watch?v=SICd8tTEqvs) 22:17s
 - [Build and Deploy a Blog with Astro - The Next-gen Framework // Astro JS Tutorial](https://www.youtube.com/watch?v=MDSlG1CzTV8) 22:41s
 - [Odyssey Theme for Astro & We're Rebranding!! - Little Sticks](https://www.youtube.com/watch?v=7B74jDONNdk) 22:48s
 - [Advanced Astro | Using React with Astro, Pagination And More - CodeLit](https://www.youtube.com/watch?v=yuvKqZdkqa8) 22:54s
