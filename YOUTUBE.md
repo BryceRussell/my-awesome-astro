@@ -1,6 +1,6 @@
 # Astro content on Youtube
 
-[Videos](#videos) | [Livestreams](#livestreams) | [Shorts](#shorts) | [Series](#series)
+[Master Playlist](https://www.youtube.com/playlist?list=PLzH1dqcPw_N0MNuoZNSmlLmGj-H3rnb7B) | [Videos](#videos) | [Livestreams](#livestreams) | [Series](#series)
 ---|---|---|---
 
 ## Videos
@@ -17,17 +17,20 @@
 - [How to manage state in Astro applications? - CodeWithLuke](https://www.youtube.com/watch?v=R3N_zg7Lz6Q) 4:06s
 - [Setting up a new Astro project in Gitpod - Sarah Rainsberger](https://www.youtube.com/watch?v=fxkkh3oE48Y) 4:32s
 - [Content Collections are game changing - James Perkins](https://www.youtube.com/watch?v=BvpkX1OEReI) 4:51s
+- [ASTRO Import Aliases | Tutorial | Static Site Generator SSG JavaScript JS Markdown MD Components - Future Web Design](https://www.youtube.com/watch?v=Kp1e5iew-hg) 4:58s
 - [Demo of WPGraphQL JWT Auth with Astro and Vue - WP Engine Builders](https://www.youtube.com/watch?v=oYUqID-9KF0) 5:18s
 - [Add Responsive YouTube Videos to Astro.JS MDX - Bit Doze](https://www.youtube.com/watch?v=NkShQ1wwiCg) 5:24s
 - [Using Astro with YOUR favourite UI library (React example) - Eddie Jaoude](https://www.youtube.com/watch?v=SoezjkNppkE) 5:32s
 - [Don't make me think - Awesome](https://www.youtube.com/watch?v=xultIkhPoCc) 5:39s
 - [Vue and Astro Simplified - LearnVue](https://www.youtube.com/watch?v=1BU12Z5w_FU) 5:45s
 - [What is Astro and how you can use it to build fast websites - Padakoo](https://www.youtube.com/watch?v=PX3yA7ybb78) 5:57s
+- [Astro Site with Netlify Functions, Forms, and Redirects - Netlify](https://www.youtube.com/watch?v=GrSLYq6ZTes) 6:10s
 - [What Is Astro - What is Web Development Weekly - LevelUpTuts](https://www.youtube.com/watch?v=XphKgi9Jr8I) 6:13s
 - [Make your website even faster with Astro! - Tim Benniks](https://www.youtube.com/watch?v=O8m4cS3o4II) 6:17s
 - [Astro Build: how to use React, Vue and Svelte in the same page using "islands" - Fabio Biondi - Front-End Tutorials](https://www.youtube.com/watch?v=hBzlb5ZxsKo) 6:30s
 - [How to use TAILWIND in ASTRO - A shot of code](https://www.youtube.com/watch?v=Aihhv-Xo5Ck) 6:47s
 - [Intro to Astro + Svelte - Svelte Mastery](https://www.youtube.com/watch?v=7ClGgtwn3bY) 6:56s
+- [Create Site Maps with ASTRO | Tutorial | Static Site Generator SSG JavaScript JS - Future Web Design](https://www.youtube.com/watch?v=ZHop5-8CGj4) 7:07s
 - [Why Use Astro - Chris Hawkes](https://www.youtube.com/watch?v=8mE1Auts20Q) 8:07s
 - [What is Astro? - Kodaps Academy](https://www.youtube.com/watch?v=oQDErNNzdwU) 8:15s
 - [Updating my Astro + Sanity Minimal Starter! (Sanity Block Content To React) - Little Sticks](https://www.youtube.com/watch?v=dB7CmFLQiSs) 8:28s
@@ -55,7 +58,7 @@
 - [How Astro Made My Site 100x Faster - James Perkins](https://www.youtube.com/watch?v=cOxA3kMYtkM) 15:00s
 - [Optimize Images & Dynamically Resize in Astro with Cloudinary - Colby Fayock](https://www.youtube.com/watch?v=bwGFqqS4gIE) 16:04s
 - [Let's Checkout... #Astro - Watch and Learn](https://www.youtube.com/watch?v=m08eXKqkpKE) 16:10s
-- [Astro is Gatsby done right. (Static sites without the JavaScript) - Eric Murphy](https://www.youtube.com/watch?v=sGCjoa5z2nU) 16:47
+- [Astro is Gatsby done right. (Static sites without the JavaScript) - Eric Murphy](https://www.youtube.com/watch?v=sGCjoa5z2nU) 16:47s
 - [AstroJS - The JavaScript Meta Framework you'll WANT to use - Ray Villalobos](https://www.youtube.com/watch?v=OJU99zHr-mI) 16:51s
 - [Working with APIs in Astro is AMAZING! - Stefan Rows](https://www.youtube.com/watch?v=iX-mTitP4aE) 17:03s
 - [Taking Astro for a ride - portfolio edition - YuriCodesBot](https://www.youtube.com/watch?v=QkY_rZpjEew) 17:17s
@@ -72,10 +75,12 @@
 - [Build and Deploy a Blog with Astro - The Next-gen Framework // Astro JS Tutorial](https://www.youtube.com/watch?v=MDSlG1CzTV8) 22:41s
 - [Odyssey Theme for Astro & We're Rebranding!! - Little Sticks](https://www.youtube.com/watch?v=7B74jDONNdk) 22:48s
 - [Advanced Astro | Using React with Astro, Pagination And More - CodeLit](https://www.youtube.com/watch?v=yuvKqZdkqa8) 22:54s
+- [The less Javascript, the better - Stack Overflow](https://www.youtube.com/watch?v=W3Cwno3Reec) 24:24s
 - [Create template layouts for your HTML with Astro SSG - Kevin Powell](https://www.youtube.com/watch?v=o7iQAF2EvUU) 24:28s
 - [Astro 2.0 is Revolutionary! Again! - Jack Herrington](https://www.youtube.com/watch?v=gi4c7fbeURc) 26:04s
 - [AM Coder - Astro! Use React, Svelte, Vue and Web Components in one Static Site Generator! (Overview) - Alex Merced - Full Stack Developer](https://www.youtube.com/watch?v=ncj-KwGutBc) 26:21s
 - [Yapping About Astro - CSS-Tricks](https://www.youtube.com/watch?v=3jPaidbpUIA) 26:38s
+- [How To Deploy An Astro.JS Blog On Cloudflare - Bit Doze](https://www.youtube.com/watch?v=an0DrjkrUoc) 27:11s
 - [Astro - Complete tutorial - yoursTRULY](https://www.youtube.com/watch?v=Mh3tVohMNmQ) 28:38s
 - [95.7% Faster?? I Rewrote My First Next/React App - Theo - t3.gg](https://www.youtube.com/watch?v=vP3QVrveSvI) 29:46s
 - [First steps with Astro - Alvaro Dev Labs](https://www.youtube.com/watch?v=ApHo82GBkwg) 32:47s
@@ -100,7 +105,10 @@
 
 ## Livestreams
 
+- [Build Faster Websites, Ship Less JavaScript - Open Source Friday - Github](https://www.youtube.com/watch?v=vTgTNVrOXZY) 33:01s
 - [Static Feedback #5 — Whiteboard the Web and Astro with Ben Holmes - CloudCannon](https://www.youtube.com/watch?v=CZcNgDN81Sw) 37:11s
+- [Tips for documenting your framework with Astro - Open Source Friday - Github](https://www.youtube.com/watch?v=B1ejSMzr0n4) 40:46s
+- [What's new in Astro 2.0? - Open Source Friday - Github](https://www.youtube.com/watch?v=NR2msmLYV7g) 42:42s
 - [Episode 48 - Astro with Fred Schott - FSJam](https://www.youtube.com/watch?v=17BB0TkRL80) 44:27s
 - [How I Turned 70kb PNG into a 1.5kb WEBP with astro-image; upgrading my blog to Astro 1.0 - Parasocial Fix](https://www.youtube.com/watch?v=p_wY0odTYsA) 49:29s
 - [Building fast, content-focused websites with Astro - CodeSandbox](https://www.youtube.com/watch?v=q9-l6jmCmiU) 51:05s
@@ -123,6 +131,7 @@
 - [Astro with Fred K. Schott - JSJ 561 - Top End Devs](https://www.youtube.com/watch?v=jktNwk8-DKs) 1:07:28s
 - [Building faster websites with Astro - Visual Studio Code](https://www.youtube.com/watch?v=0eka27P4Pr4) 1:09:22s
 - [Adding a Uses Page Using Astro - James Q Quick](https://www.youtube.com/watch?v=Sb4Mb4pCTe8) 1:19:32s
+- [Astro Website Redesign! - James Q Quick](https://www.youtube.com/watch?v=zX6pYvjU50s) 1:19:35s
 - [Astro SSR with Ben Holmes - Episode 5, AJC and the Web Devs - Anthony Campolo](https://www.youtube.com/watch?v=M93ImyH7hTI) 1:20:42s
 - [🥇 Astro 1.0 Hackathon Award Ceremony 🥇](https://www.youtube.com/watch?v=l3FKc4A8_5A) 1:23:12s
 - [Let's Build react.holiday with Astro - lunchdev](https://www.youtube.com/watch?v=BRqwdUAK3z0) 1:24:57s
@@ -137,6 +146,7 @@
 - [Port a Blog to Astro - Learn With Jason](https://www.youtube.com/watch?v=53mVg45Rdxg) 1:30:50s
 - [New Website Design With Astro - James Q Quick](https://www.youtube.com/watch?v=pgRyuhYt-XA) 1:41:14s
 - [Lift Off with the Astro v1 Beta (with Ben Holmes) | Some Antics - Ben Myers](https://www.youtube.com/watch?v=tKiZ_VTE0w4) 1:43:27s
+- [Astro Website Redesign Continued - James Q Quick](https://www.youtube.com/watch?v=9t3lfiW0CTI) - 1:43:40s
 - [Building a Portfolio with Astro - Agora Devs](https://www.youtube.com/watch?v=0kVmdaIquJc) 1:47:19s
 - [[Ep 2 - Full Stream] Astro 1.0 Web Framework is out! Let's check it out - donvitocodes](https://www.youtube.com/watch?v=YrqBk9B6tZI) 1:47:42s
 - [Working on My Personal Site with Astro - James Q Quick](https://www.youtube.com/watch?v=P59X61bApR0) 1:50:16s
@@ -227,6 +237,11 @@
 - [Build A Website with Astro, TailwindCSS and React (#2 - Header Dropdown and Contact Form)](https://www.youtube.com/watch?v=JUIf_4tPUuQ) 48:47s
 - [Build A Website with Astro, TailwindCSS and React (#3 - Mobile Header)](https://www.youtube.com/watch?v=hy4zTUSzGOU) 23:24s
 - [Build A Website with Astro, TailwindCSS and React (#4 - Taxonomies and Authors)](https://www.youtube.com/watch?v=8z0AyPqKf9M) 30:09s
+
+## Chris Bongers on Integrating Typesense search to an Astro static website by [Aviyel](https://www.youtube.com/@AviyelHq)
+
+- [Chris Bongers on Integrating Typesense search to an Astro static website Part 1](https://www.youtube.com/watch?v=LU5utR5S6Bc)
+- [Chris Bongers on Integrating Typesense search to an Astro static website Part 2](https://www.youtube.com/watch?v=Cx9fXvzNbWk)
 
 ### Porting my Next.js blog to Astro by [Parasocial Fix](https://www.youtube.com/@ParasocialFix)
 
