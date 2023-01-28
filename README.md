@@ -202,3 +202,8 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 - [@vite-pwa/astro](https://vite-pwa-org.netlify.app/frameworks/astro) - Astro integration for creating PWAs with [vite-pwa](https://vite-pwa-org.netlify.app/)
 - [astro-webmanifest](https://github.com/alextim/astro-lib/tree/main/packages/astro-webmanifest) - Generates a web application manifest, favion, icons
+
+### If I want to add SPA functionality?
+
+- [QGP](https://qgp.deno.dev/) - HMR for SPA routes/pahes
+- [astro-spa](https://github.com/RafidMuhymin/astro-spa) - Astro SPA is a SPA component/library that is built using Astro components. Includes support for animations, caching, containerization, local link detection, prefetching, progress bar, and more. 1.2kb(min+gzipped)
