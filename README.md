@@ -205,5 +205,5 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 ### If I want to add SPA functionality?
 
-- [QGP](https://qgp.deno.dev/) - HMR for SPA routes/pahes
+- [QGP](https://qgp.deno.dev/) - HMR for SPA routes/pages
 - [astro-spa](https://github.com/RafidMuhymin/astro-spa) - Astro SPA is a SPA component/library that is built using Astro components. Includes support for animations, caching, containerization, local link detection, prefetching, progress bar, and more. 1.2kb(min+gzipped)
