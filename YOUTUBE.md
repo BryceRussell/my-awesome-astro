@@ -6,16 +6,21 @@
 ## Videos
 
 - [Astro's "Hello, World" is so simple compared to others (Fred K. Schott) - Changelog](https://www.youtube.com/watch?v=GqcBgaTz720) 1:08
+- [ Install astro js in 60 seconds @webhydratedesign - WebHydrateDesign](https://www.youtube.com/watch?v=Zm1LrjFYXqw) 1:13s
+- [Which JS framework is best for fast loading pages? - Steve - Builder io](https://www.youtube.com/watch?v=0FsmP9vF7ws) 1:29s
 - [Jamstack Ecosystem Innovation Award: Astro - Jamstack TV](https://www.youtube.com/watch?v=6SKbkK1uzok) 1:35s
 - [What are Islands? - Astro](https://www.youtube.com/watch?v=6F-lQe_BzeM) 2:08s
 - [Astro in 100 seconds - Fireship](https://www.youtube.com/watch?v=dsTXcSeAZq8) 2:17s
 - [ASTRO 1.0: Bringing the Future TODAY! - James Perkins](https://www.youtube.com/watch?v=2APjox1s7Ek) 2:19s
 - [Create and Deploy Your Astro Site Today! - Netlify](https://www.youtube.com/watch?v=SknFflQVOys) 2:28s
+- [Astro 2.0 released! - Gui Bibeau](https://www.youtube.com/watch?v=38Si1cX37os) 3:09s
 - [Astro just Launched.... Could it be the ultimate web framework? - Fireship](https://www.youtube.com/watch?v=gxBkghlglTg) 3:17s
 - [What is ASTRO JS & How To Run it - Norbert BM Web Development](https://www.youtube.com/watch?v=oY10C8W53KE) 3:23s
 - [Islands Architecture explained (by Astro's Fred K. Schott) - Changelog](https://www.youtube.com/watch?v=e-vEFRtk4-0) 4:02s
 - [How to manage state in Astro applications? - CodeWithLuke](https://www.youtube.com/watch?v=R3N_zg7Lz6Q) 4:06s
+- [Multi-Framework Nesting with Astro-Portal - Enteleform](https://www.youtube.com/watch?v=OZHUWVxhKNM) 4:07s
 - [Setting up a new Astro project in Gitpod - Sarah Rainsberger](https://www.youtube.com/watch?v=fxkkh3oE48Y) 4:32s
+- [Astro: The frameworks are dead, long live the frameworks! 🤯 Run a React and a Svelte app parallel! - World Peace Engine Labs](https://www.youtube.com/watch?v=7KnBNYsrq6s) 4:32s
 - [Content Collections are game changing - James Perkins](https://www.youtube.com/watch?v=BvpkX1OEReI) 4:51s
 - [ASTRO Import Aliases | Tutorial | Static Site Generator SSG JavaScript JS Markdown MD Components - Future Web Design](https://www.youtube.com/watch?v=Kp1e5iew-hg) 4:58s
 - [Demo of WPGraphQL JWT Auth with Astro and Vue - WP Engine Builders](https://www.youtube.com/watch?v=oYUqID-9KF0) 5:18s
@@ -35,9 +40,11 @@
 - [What is Astro? - Kodaps Academy](https://www.youtube.com/watch?v=oQDErNNzdwU) 8:15s
 - [Updating my Astro + Sanity Minimal Starter! (Sanity Block Content To React) - Little Sticks](https://www.youtube.com/watch?v=dB7CmFLQiSs) 8:28s
 - [How I hosted my Astro website - Web Dev Cody](https://www.youtube.com/watch?v=0x0IPGpBxCM) 8:34s
+- [We integrated with WHO?? (hottest framework of 2023) - SST](https://www.youtube.com/watch?v=AFP3ZHxO7Gg) 8:51s
 - [Create a Custom Blog with Astro & NetlifyCMS in MINUTES! - Kumail Pirzada](https://www.youtube.com/watch?v=3yip2wSRX_4) 8:56s
 - [Astro: less JavaScript, Faster Website - Elian Van Cutsem - BeJS](https://www.youtube.com/watch?v=6llrwAmzKY0) 9:01s
 - [Why Astro will be your favorite web app framework - DevTrends](https://www.youtube.com/watch?v=qEUzK1g9Hu8) 9:18s
+- [Astro Headless WordPress Starter Demo - WP Engine Builders](https://www.youtube.com/watch?v=BcoxZZIfESI) 9:18s
 - [Astro JS is here to stay - Awesome](https://www.youtube.com/watch?v=npmalb821gc) 9:19s
 - [ASTRO Dynamic Title Tag | Tutorial | Static Site Generator SSG JavaScript JS - Future Web Design](https://www.youtube.com/watch?v=Rg7Finb-Uxw) 9:24s
 - [Astro Lightning Launch: Astro v 0.21 with Matthew Phillips - Jamstack TV](https://www.youtube.com/watch?v=fop0HoArXxE) 9:31s
@@ -58,6 +65,7 @@
 - [How Astro Made My Site 100x Faster - James Perkins](https://www.youtube.com/watch?v=cOxA3kMYtkM) 15:00s
 - [Optimize Images & Dynamically Resize in Astro with Cloudinary - Colby Fayock](https://www.youtube.com/watch?v=bwGFqqS4gIE) 16:04s
 - [Let's Checkout... #Astro - Watch and Learn](https://www.youtube.com/watch?v=m08eXKqkpKE) 16:10s
+- [Implementing lazy load content with Astro.js and Hygraph pagination - Hygraph (previously GraphCMS)](https://www.youtube.com/watch?v=8FYvmFSKtC4) 16:19s
 - [Astro is Gatsby done right. (Static sites without the JavaScript) - Eric Murphy](https://www.youtube.com/watch?v=sGCjoa5z2nU) 16:47s
 - [AstroJS - The JavaScript Meta Framework you'll WANT to use - Ray Villalobos](https://www.youtube.com/watch?v=OJU99zHr-mI) 16:51s
 - [Working with APIs in Astro is AMAZING! - Stefan Rows](https://www.youtube.com/watch?v=iX-mTitP4aE) 17:03s
@@ -65,6 +73,7 @@
 - [Build a static blog with Astro, a new kind of frontend framework - Little Sticks](https://www.youtube.com/watch?v=CzMQmkce94g) 17:37s
 - [Astro -- Going Fast Without JavaScript Bloat - Spooky Software](https://www.youtube.com/watch?v=GWH8CdQfN38) 18:05s
 - [Moving the Astro + Sanity Starter to GROQ - Little Sticks](https://www.youtube.com/watch?v=f0hBC_Df3vc) 18:32s
+- [The next generation of Jamstack performance is… less JS! | Yang Zhang - Jamstack TV](https://www.youtube.com/watch?v=U28rjWrGVxk) 18:40s
 - [AM Coder - Even more Astro SSG Features, Markdown Pages/Component, Collections, Partial Hydration - Alex Merced - Full Stack Developer](https://www.youtube.com/watch?v=GnbkHMZJX9k) 18:56s
 - [Bun vs Node: Round 2 (feat. Astro, Deno, Fresh and more) - Jack Herrington](https://www.youtube.com/watch?v=qCX8rw4qOSA) 19:31s
 - [Build React Apps without JavaScript using Astro - Static Web App Tutorial - Colby Fayock](https://www.youtube.com/watch?v=-5UPq7Lv9Sc) 21:06s
@@ -83,6 +92,7 @@
 - [How To Deploy An Astro.JS Blog On Cloudflare - Bit Doze](https://www.youtube.com/watch?v=an0DrjkrUoc) 27:11s
 - [Astro - Complete tutorial - yoursTRULY](https://www.youtube.com/watch?v=Mh3tVohMNmQ) 28:38s
 - [95.7% Faster?? I Rewrote My First Next/React App - Theo - t3.gg](https://www.youtube.com/watch?v=vP3QVrveSvI) 29:46s
+- [Astro 1.0 + React 18 + Vue 3 + Svelte 3 + Tailwind 3 + State Management Between them - Mahesh Kariya](https://www.youtube.com/watch?v=_i2pL1apGU0) 31:48s
 - [First steps with Astro - Alvaro Dev Labs](https://www.youtube.com/watch?v=ApHo82GBkwg) 32:47s
 - [Stories from the Blok #7: Intro to Astro - Storyblok](https://www.youtube.com/watch?v=il5voBwU2Hk) 32:53s
 - [Getting started with astro.build featuring bholmesdev - whitep4nth3r](https://www.youtube.com/watch?v=A3HDN_dPq7k) 32:56s
@@ -97,6 +107,7 @@
 - [Astro Crash Course | Most Of Astro In One Video - CodeLit](https://www.youtube.com/watch?v=YAXiDgaTMjE) 50:31s
 - [New Astro 2.0 👨‍🚀🚀 Content Collections API Deep Dive - Coding in Public](https://www.youtube.com/watch?v=zUmqmuSvJMs) - 53:05s
 - [Build and host a website in under an hour using Astro - AnuRock.dev](https://www.youtube.com/watch?v=A_zOkryRiF0) 57:01s
+- [Astro 2.0 Content Collection (Deep Dive) - Aftab Alam](https://www.youtube.com/watch?v=7bxTGsug0rk) 57:20s
 - [Responsive Website with Navbar, Sidebar and Dropdown Menus | React, Tailwind CSS, Astro JS - Carlos Mafla](https://www.youtube.com/watch?v=u5_3Ze3nHwQ) 1:00:07s
 - [Astro Crash Course - Traversy Media](https://www.youtube.com/watch?v=Oi9z5gfIHJs) 1:35:18s
 - [Building a Blog with Astro 1, Typescript and TailwindCSS 2022 - Simon Sorensen](https://www.youtube.com/watch?v=LGHWt_EAtb4) 1:39:36s
@@ -105,18 +116,24 @@
 
 ## Livestreams
 
+- [Getting Started with Astro 🚀 - AntStack](https://www.youtube.com/watch?v=Ji97e25_r3M) 29:03s
 - [Build Faster Websites, Ship Less JavaScript - Open Source Friday - Github](https://www.youtube.com/watch?v=vTgTNVrOXZY) 33:01s
+- [Astro: Just Another JS Framework? - All The Code](https://www.youtube.com/watch?v=6ehLvhdEWr8) 35:36s
+- [Astro 2.0 With React CRUD With State Management (Nanostores) - Mahesh Kariya](https://www.youtube.com/watch?v=Sr4VYks1lPY) 38:26s
 - [Static Feedback #5 — Whiteboard the Web and Astro with Ben Holmes - CloudCannon](https://www.youtube.com/watch?v=CZcNgDN81Sw) 37:11s
 - [Tips for documenting your framework with Astro - Open Source Friday - Github](https://www.youtube.com/watch?v=B1ejSMzr0n4) 40:46s
 - [What's new in Astro 2.0? - Open Source Friday - Github](https://www.youtube.com/watch?v=NR2msmLYV7g) 42:42s
 - [Episode 48 - Astro with Fred Schott - FSJam](https://www.youtube.com/watch?v=17BB0TkRL80) 44:27s
+- [#7 - Build Time - An intro to Astro with headless CMS content - Cosmic](https://www.youtube.com/watch?v=7GNeFPn8W9E) 46:11s
+- [Ship Less JavaScript with Astro | Fred K. Schott - JavaScript Jam](https://www.youtube.com/watch?v=cBBwz0YDRIo) 48:12s
 - [How I Turned 70kb PNG into a 1.5kb WEBP with astro-image; upgrading my blog to Astro 1.0 - Parasocial Fix](https://www.youtube.com/watch?v=p_wY0odTYsA) 49:29s
 - [Building fast, content-focused websites with Astro - CodeSandbox](https://www.youtube.com/watch?v=q9-l6jmCmiU) 51:05s
 - [Speakeasy JS – Astro: A New Architecture for the Modern Web (Fred K. Schott) - Feross](https://www.youtube.com/watch?v=mgkwZqVkrwo) 53:55s
 - [Static Site Generation with Astro Build, Build IT Better: Platform (ft. Fred K. Schott) - This Dot Media](https://www.youtube.com/watch?v=0GSFb5xTQEY) 54:56s
+- [The Astro Framework with Fred Schott - WP Engine Builders](https://www.youtube.com/watch?v=5oyiK2eLybE) 55:48s
 - [Coding Design Systems - ep08 - Building in Astro with Matthew Phillips - Backlight](https://www.youtube.com/watch?v=IF3sfyobdFE) 56:44s
 - [Fred K. Schott - Snowpack, Astro - devtools-fm](https://www.youtube.com/watch?v=1i9Wm7dP1Aw) 57:22s
-- [2.11 - Build faster websites-with Astro - PurrfectDev](https://www.youtube.com/watch?v=x3hiyWikdrE&list=PLGkO2vaNEBBJOAWvCG0BmbJp102NzBhj-&index=3) 59:06s
+- [2.11 - Build faster websites-with Astro - CodingCatDev](https://www.youtube.com/watch?v=vw-c0FSse5o) 59:06s
 - [Astro Demo Day - September Edition - Astro](https://www.youtube.com/watch?v=-ExcBJrXOd8) 59:15s
 - [Code & Chill with Storyblok #3 - Astro Edition - Storyblok](https://www.youtube.com/watch?v=_UpwoeZjV-c) 1:01:47s
 - [Astro 2.0 with Fred K. Schott (JS Party Live!) - Changelog](https://www.youtube.com/watch?v=CJamBV6Cwr8) 1:02:14s
@@ -157,6 +174,7 @@
 - [Blasting Off with Astro 1.0! - Alex Trost](https://www.youtube.com/watch?v=Sxz17o5EmrA) 1:59:38s
 - [Building with Astro & Prismic - w/ Nate Moore - Alex Trost](https://www.youtube.com/watch?v=qFUfuDSLdxM) 2:02:51s
 - [Live Code: Google I/O 2022 Homepage Clone (Astro SSG + Tailwind CSS) - Coding in Public](https://www.youtube.com/watch?v=Bo9s7SjZ170) 2:07:05s
+- [End of Next js? | Exploring Astro - Anuj Joshi](https://www.youtube.com/watch?v=nyInnpVRrlc) 2:16:10s
 - [Live Code: Astro Static Site Generator Build (real coffee website!) - Coding in Public](https://www.youtube.com/watch?v=59N0wkvf12I) 2:27:23s
 - [Let's make a Web product page for my iOS App using Astro.build - Peter Witham](https://www.youtube.com/watch?v=UZM1CSJ7l5M) 2:29:17s
 - [Live coding with Astro and some tech rants too - Theo - t3.gg](https://www.youtube.com/watch?v=o-S7sVpH7Y8) 2:39:54s
