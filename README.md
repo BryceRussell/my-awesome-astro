@@ -140,6 +140,8 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
   - [Sweeter searches with Pagefind - Bryce Wray](https://www.brycewray.com/posts/2022/12/sweeter-searches-pagefind/)
 - [@lyrasearch/plugin-astro](https://github.com/LyraSearch/plugin-astro) - Astro integration for [Lyra](https://lyrajs.io/) search
 - [astro-lunr](https://github.com/jackcarey/astro-lunr) - Astro integration for [Lunr](https://github.com/siverv/astro-lunr) search
+- [@barnabask/astro-minisearch]() - Build an index from markdown and search it using [MiniSearch](https://github.com/lucaong/minisearch)
+  - [Client-Side Search -Barnabas Kendall](https://barnabas.me/articles/client-side-search/)
 
 **Fuzzy Search**:
 
