@@ -204,7 +204,7 @@ You can use [import aliases](https://docs.astro.build/en/guides/typescript/#impo
 
 To get syntax highlighting in MDX files you must install the [MDX VS Code plugin](https://marketplace.visualstudio.com/items?itemName=unifiedjs.vscode-mdx)
 
-### How do I change name of the files/folders Astro creates?
+### How do I customize the file/folder names of my output?
 
 [Build Options](https://docs.astro.build/en/reference/configuration-reference/#build-options)
 
