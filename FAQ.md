@@ -25,6 +25,21 @@ There could be a few issues:
 
 Styles are only duplicated when using the dev server, if you build and preview the website using `npm run build` and `npm run preview` then the styles will not be duplicated
 
+### Why is my image import returning `[object Object]`?
+
+You most likely have the `@astrojs/image` integration installed which changes the way images are imported
+
+If you want to use an imported image with a normal `<img>` element while this integration is installed you must add `?url` to the end of your import path
+
+```jsx
+---
+// add '?url' when using <img> with @astrojs/image installed
+import levi from '../levi.png?url';
+---
+
+<img src={levi} alt="My orange cat"/>
+```
+
 ### Why is my image blurry when using `@astojs/image`?
 
 The `height` and `width` props of your image must be 1.5x - 2x larger than the CSS size of the image
