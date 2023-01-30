@@ -119,6 +119,8 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [React](https://docs.astro.build/en/guides/integrations-guide/react/)
 - [AlpineJS](https://docs.astro.build/en/guides/integrations-guide/alpinejs/)
 
+[Size comparison of UI Frameworks](https://dev.to/this-is-learning/javascript-framework-todomvc-size-comparison-504f)
+
 ### If I want to share state between components?
 
 [Sharing State](https://docs.astro.build/en/core-concepts/sharing-state/)
