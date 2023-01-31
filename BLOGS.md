@@ -59,6 +59,11 @@ Title | Description
 ---|---
 [Add the content of your blog posts to your Astro RSS feed](https://bensmith.sh/blog/astro-rss-full-content/) | How to use `@astrojs/rss` to add a RSS feed to your blog
 
+### Forms
+Title | Description
+---|---
+[Using FormData with Astro](https://blog.okikio.dev/using-formdata-with-astro) | How to use [FormData](https://developer.mozilla.org/en-US/docs/Web/API/FormData) and Astro SSR to upload files
+
 ### Authentication
 
 Title | Description
