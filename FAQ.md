@@ -1,5 +1,7 @@
 # FAQ
 
+Most of this information can be found in [docs](https://docs.astro.build) start there first, this is just a place for me to keep a record of commonly asked questions
+
 ## Questions
 
 ### Why do Astro commands like `astro dev` not work?
