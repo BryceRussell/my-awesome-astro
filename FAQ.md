@@ -13,7 +13,7 @@ I take notes here on commonly asked questions in Astro's `#support` channel on [
 - [Why do Astro commands like `astro dev` not work?](https://github.com/BryceRussell/my-awesome-astro/tree/main/FAQ.md#why-do-astro-commands-like-astro-dev-not-work)
 - [Why is `astro-icon` not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-astro-icon-not-working)
 - [Why is my `<style>` tag not applying styles?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-style-tag-not-applying-styles)
-- [Why are my CSS styles duplicated?](https://github.com/BryceRussell/my-awesome-astro/tree/main/FAQ.md#why-are-my-css-styles-duplicated)
+- [Why are my CSS styles duplicated?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-are-my-css-styles-duplicated)
 - [Why is my image import returning `[object Object]`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-image-import-returning-object-object)
 - [Why is my image blurry when using `@astojs/image`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-image-blurry-when-using-astojsimage)
 - [Why is my `<script>` tag not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-script-tag-not-working)
