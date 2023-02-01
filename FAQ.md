@@ -13,7 +13,7 @@ I take notes here on commonly asked questions in Astro's `#support` channel on [
 - [Why do Astro commands like `astro dev` not work?](https://github.com/BryceRussell/my-awesome-astro/tree/main/FAQ.md#why-do-astro-commands-like-astro-dev-not-work)
 - [Why is `astro-icon` not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-astro-icon-not-working)
 - [Why is my `<style>` tag not applying styles?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-style-tag-not-applying-styles)
-- [Why do I have duplicated CSS styles?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-do-i-have-duplicated-css-styles)
+- [Why are my CSS styles duplicated?](https://github.com/BryceRussell/my-awesome-astro/tree/main/FAQ.md#why-are-my-css-styles-duplicated)
 - [Why is my image import returning `[object Object]`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-image-import-returning-object-object)
 - [Why is my image blurry when using `@astojs/image`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-image-blurry-when-using-astojsimage)
 - [Why is my `<script>` tag not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-script-tag-not-working)
@@ -52,9 +52,9 @@ There could be a few issues:
 
 `<style>` tags in Astro are [scoped by default](https://docs.astro.build/en/guides/styling/#scoped-styles), this means the styles will only be applied to HTML inside of the file. To opt out of scoping you can use [global styles](https://docs.astro.build/en/guides/styling/#global-styles)
 
-### Why do I have duplicated CSS styles?
+### Why are my CSS styles duplicated?
 
-Styles are only duplicated when using the dev server, if you build and preview the website using `npm run build` and `npm run preview` then the styles will not be duplicated
+CSS Styles are only sometimes duplicated when using the develpment server. If you use `npm run build` and `npm run preview` to build and preview the website then the styles should not be duplicated
 
 ### Why is my image import returning `[object Object]`?
 
