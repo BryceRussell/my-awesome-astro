@@ -1,6 +1,35 @@
 # FAQ
 
-Most of this information can be found in [docs](https://docs.astro.build), start there first. This is just a place for me to keep a record of commonly asked questions in #support
+## What is this?
+
+I take notes here on commonly asked questions in Astro's `#support` channel on [Discord](https://astro.build/chat). Most of this information can be found in [the Astro docs](https://docs.astro.build) or on the [Discord](https://astro.build/chat), check there first. If you need help you can post a question to the `#support` channel in the [Discord](https://astro.build/chat)
+
+### [Documentation](https://docs.astro.build)
+
+### [Troubleshooting](https://docs.astro.build/en/guides/troubleshooting/)
+
+## Table of Contents
+
+- [Why do Astro commands like `astro dev` not work?](https://github.com/BryceRussell/my-awesome-astro/tree/main/FAQ.md#why-do-astro-commands-like-astro-dev-not-work)
+- [Why is `astro-icon` not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-astro-icon-not-working)
+- [Why is my `<style>` tag not applying styles?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-style-tag-not-applying-styles)
+- [Why do I have duplicated CSS styles?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-do-i-have-duplicated-css-styles)
+- [Why is my image import returning `[object Object]`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-image-import-returning-object-object)
+- [Why is my image blurry when using `@astojs/image`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-image-blurry-when-using-astojsimage)
+- [Why is my `<script>` tag not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-script-tag-not-working)
+- [How do I use frontmatter variables in my `<script>` tag?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-use-frontmatter-variables-in-my-script-tag)
+- [How do I do conditional rendering?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-conditionally-render-something)
+- [Why is my `.map()` not rendering anything?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-map-not-rendering-anything)
+- [How do I loop X number of time using JSX?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-loop-x-number-of-time-using-jsx)
+- [Why is my component's JavaScript not working?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-is-my-components-javascript-not-working)
+- [Why do I get an error when using an Astro component inside of a Svelte/Vue/React component?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-do-i-get-an-error-when-using-an-astro-component-inside-of-a-sveltevuereact-component)
+- [How do I use env variables?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-use-env-variables)
+- [How do I use an imported asset in CSS?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-use-an-imported-asset-in-css)
+- [How do I pass variables to JSON inside of a `<script>`?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-pass-variables-to-json-inside-of-a-script)
+- [Why can't I create a tailwind class dynamically?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-cant-i-create-a-tailwind-class-dynamically)
+- [How do I avoid using relative imports ('../../Component.astro')?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-avoid-using-relative-imports-componentastro)
+- [Why don't I have syntax highlighting in my MDX files?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#why-dont-i-have-syntax-highlighting-in-my-mdx-files)
+- [How do I customize the file/folder names of my output?](https://github.com/BryceRussell/my-awesome-astro/blob/main/FAQ.md#how-do-i-customize-the-filefolder-names-of-my-output)
 
 ## Questions
 
@@ -58,7 +87,7 @@ You can use the [`define:vars` directive](https://docs.astro.build/en/reference/
 
 If you want to [avoid `define:vars`](https://docs.astro.build/en/guides/client-side-scripts/#pass-frontmatter-variables-to-scripts) another option is using [`data-*` attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes) 
 
-### How do I conditionally render something?
+### How do I do conditional rendering?
 
 ```jsx
 { boolean && 
@@ -212,3 +241,6 @@ To get syntax highlighting in MDX files you must install the [MDX VS Code plugin
 
 [Customising Output Filenames](https://docs.astro.build/en/guides/configuring-astro/#customising-output-filenames)
 
+<div align="right">
+    <b><a href="#table-of-contents">↥ Back To Top</a></b>
+</div>
