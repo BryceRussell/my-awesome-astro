@@ -35,9 +35,9 @@ I take notes here on commonly asked questions in Astro's `#support` channel on [
 
 ### Why do Astro commands like `astro dev` not work?
 
-If your project was just cloned make sure to use `npm i` to install node dependencies
-
-Another issue could be your version of Node, Astro 2.0 is compatible with `v16.12` - `v18`,  while Astro 1.0 is only compatible up to `v17`
+1) Make sure you have installed your dendencies using `npm i`
+2) Make sure the cmd line is pointing to the root of your astro project and not a sub folder
+3) Make sure your using a compatible version of Node, Astro 2.0 currently supports `v16.12` - `v18`
 
 ### Why is `astro-icon` not working?
 
