@@ -112,9 +112,6 @@ Title | Description
 ---|---
 [Client-side Routing without the JavaScript ](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i) | Talks about SPA routing inside SSR/MPA frameworks
 
-**Other Resources**:
-- ["Building SPA with Astro 1.0 Beta" Youtube series by Parasocial Fix](https://github.com/BryceRussell/my-awesome-astro/blob/main/YOUTUBE.md#building-spa-with-astro-10-beta-by-parasocial-fix)
-
 ### Migrating
 
 Title | Description
