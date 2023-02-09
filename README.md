@@ -58,7 +58,6 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 [Open Graph Protocol](https://ogp.me/)
 
-- @astrojs/og - (Coming Soon after 2.0!) Astro's official open graph image generation integration
 - [satori-html](https://github.com/natemoo-re/satori-html) - Create og images using html strings and [satori](https://github.com/vercel/satori)
   - [Dynamic OG images using Satori and Astro Server Endpoints - Rumaan K](https://rumaan.dev/blog/open-graph-images-using-satori)
   - [Recreating Vercel's OG Image Generation - Otterlord](https://blog.otterlord.dev/post/dynamic-opengraph/)
@@ -99,8 +98,10 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [Tailwindcss](https://docs.astro.build/en/guides/integrations-guide/tailwind/) - [Documentation](https://tailwindcss.com/docs/configuration)
 - [UnoCSS](https://github.com/unocss/unocss) - [Documentation](https://uno.antfu.me)
 - [Vanilla Extract](https://github.com/codiume/orbit/tree/main/packages/astro-vanilla-extract) - [Documentation](https://vanilla-extract.style/documentation/getting-started)
+  - [Astro Vanilla-Extract Styling: CSS in TypeScript](https://dev.to/askrodney/astro-vanilla-extract-styling-css-in-typescript-35f)
 - [Windi CSS](https://github.com/Dv-Dn/astro-integration-windicss) - [Documentation](https://windicss.org/guide/)
 - [Stylify](https://stylifycss.com/docs/integrations/astro) - [Documentation](https://stylifycss.com/docs/get-started)
+  - [Stylify CSS: Automagic CSS bundles splitting into CSS layers in Astro.build](https://dev.to/machy8/stylify-css-automagic-css-bundles-splitting-into-css-layers-in-astrobuild-3po9)
 
 ### If I want to add client side interactivity?
 
@@ -166,14 +167,17 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 ### If I want to create a sitemap?
 
 - [@astrojs/sitemap](https://docs.astro.build/en/guides/integrations-guide/sitemap/) - Automatically generates a sitemap based on your routes when you build your project
+  - [Astro Sitemaps: Add Post and Page XML Sitemaps](https://dev.to/askrodney/astro-sitemaps-add-post-and-page-xml-sitemaps-1l8g)
 
 ### If I want to add a CMS?
 
 [Connecting a CMS](https://docs.astro.build/en/guides/cms/)
 
 - [@storyblok/astro](https://docs.astro.build/en/guides/cms/storyblok/) - Astro integration for [Storyblok](https://www.storyblok.com/)
+  - [Announcing @storyblok/astro](https://www.storyblok.com/mp/announcing-storyblok-astro)
 - [astro-sanity](https://github.com/littlesticks/astro-sanity) - Astro integration for [Sanity](https://www.sanity.io/)
-  - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw) 
+  - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw)
+  - [Playing around with Sanity.io ](https://dev.to/palmiak/playing-around-with-sanityio-3l5e)
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
 
 ### If I want to add E-Commerce?
