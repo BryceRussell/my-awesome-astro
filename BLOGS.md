@@ -12,6 +12,7 @@
 - [Open Graph Images](#open-graph-images)
 - [Adding Search](#adding-search)
 - [Authentication](#authentication)
+- [SPA](#spa)
 - [Migrating](#migrating)
 - [Deploying](#deploying)
 - [Misc](#misc)
@@ -104,6 +105,14 @@ Title | Description
 Title | Description
 ---|---
 [How to Use AuthJS in Astro](https://blog.otterlord.dev/post/authjs-astro/) | How to use [`auth-astro`](https://www.npmjs.com/package/auth-astro), the unofficial Auth.js Astro adapter
+
+### SPA
+
+Title | Description
+---|---
+[Client-side Routing without the JavaScript ](https://dev.to/this-is-learning/client-side-routing-without-the-javascript-3k1i) | Talks about SPA routing inside SSR/MPA frameworks
+
+["Building SPA with Astro 1.0 Beta" series by Parasocial Fix](https://github.com/BryceRussell/my-awesome-astro/blob/main/YOUTUBE.md#building-spa-with-astro-10-beta-by-parasocial-fix)
 
 ### Migrating
 
