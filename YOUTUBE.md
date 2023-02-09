@@ -29,10 +29,12 @@
 - [Don't make me think - Awesome](https://www.youtube.com/watch?v=xultIkhPoCc) 5:39s
 - [Vue and Astro Simplified - LearnVue](https://www.youtube.com/watch?v=1BU12Z5w_FU) 5:45s
 - [What is Astro and how you can use it to build fast websites - Padakoo](https://www.youtube.com/watch?v=PX3yA7ybb78) 5:57s
+- [Astro Islands - How To Code](https://www.youtube.com/watch?v=h9YhLiRDCvY) 6:02s
 - [Astro Site with Netlify Functions, Forms, and Redirects - Netlify](https://www.youtube.com/watch?v=GrSLYq6ZTes) 6:10s
 - [What Is Astro - What is Web Development Weekly - LevelUpTuts](https://www.youtube.com/watch?v=XphKgi9Jr8I) 6:13s
 - [Make your website even faster with Astro! - Tim Benniks](https://www.youtube.com/watch?v=O8m4cS3o4II) 6:17s
 - [Astro Build: how to use React, Vue and Svelte in the same page using "islands" - Fabio Biondi - Front-End Tutorials](https://www.youtube.com/watch?v=hBzlb5ZxsKo) 6:30s
+- [Islands Architecture in React using Astro - Niklas Ziermann](https://www.youtube.com/watch?v=RjSpOg4oZHE) 6:36s
 - [How to use TAILWIND in ASTRO - A shot of code](https://www.youtube.com/watch?v=Aihhv-Xo5Ck) 6:47s
 - [Intro to Astro + Svelte - Svelte Mastery](https://www.youtube.com/watch?v=7ClGgtwn3bY) 6:56s
 - [Create Site Maps with ASTRO | Tutorial | Static Site Generator SSG JavaScript JS - Future Web Design](https://www.youtube.com/watch?v=ZHop5-8CGj4) 7:07s
@@ -53,6 +55,7 @@
 - [Tutorial | RSS feeds with Astro | Static Site Generation | Blogs - Future Web Design](https://www.youtube.com/watch?v=yI_QJxbQwUk) 10:16s
 - [Astro IS SO GOOD - ThePrimeagen](https://www.youtube.com/watch?v=Sqp5VSqbQOY) 11:15s
 - [How I built my website with Astro - A short introduction to astro.build - Weibenfalk](https://www.youtube.com/watch?v=igNXhXTthes) 11:20s
+- [How To Deploy Static Website Astro.JS on VPS Servers - Bit Doze](https://www.youtube.com/watch?v=IU1xrudRDk0) 11:47s
 - [Typesafe Markdown With Astro Content Collections - Learn with Jason](https://www.youtube.com/watch?v=TfD4RW2gR-s) 12:31s
 - [Adding a Click to Copy Code Block to the Astro & Sanity Starter - Little Sticks](https://www.youtube.com/watch?v=WVRLCaRfg8E) 12:32s
 - [I Tried Astro Build and I LOVE IT - 5 Reasons You Will TOO! - James Q Quick](https://www.youtube.com/watch?v=wND4lSml31A) 12:47s
@@ -157,6 +160,7 @@
 - [Smooth Page Transitions with Astro & the Shared Element Transition API - Learn With Jason](https://www.youtube.com/watch?v=6mv0_jsWhoE) 1:27:59s
 - [web.talks: Getting Started with Astro - PWA Pilipinas](https://www.youtube.com/watch?v=dZF_3_vUceY) 1:28:45s
 - [Making documentation developers love with Sarah Rainsberger - Kelvin Omereshone](https://www.youtube.com/watch?v=YW4IfoJM30g) 1:28:50s
+- [What’s New in Astro 2.0? - Learn With Jason](https://www.youtube.com/watch?v=vvrP8D2SCcc) 1:28:57s
 - [Ship Less JavaScript with Astro (with Fred K. Schott) — Learn With Jason](https://www.youtube.com/watch?v=z15YLsLMtu4) 1:29:08s
 - [Astro Added SSR??! Fred K Schott on Web Dev Wednesday - Theo - t3.gg](https://www.youtube.com/watch?v=fp3mYVoMN7w) 1:29:46s
 - [What’s New in Astro v1? - Learn With Jason](https://www.youtube.com/watch?v=Wh1x5SYN5y0) 1:30:39s
@@ -169,6 +173,7 @@
 - [Working on My Personal Site with Astro - James Q Quick](https://www.youtube.com/watch?v=P59X61bApR0) 1:50:16s
 - [[Full stream recording] Playing with a new way to import Contentful data into Astro? - Ben Holmes](https://www.youtube.com/watch?v=E4X6giOaQlw) 1:50:57s
 - [Exploring YOUR Astro 1.0 Hack Submissions! - Ben Holmes](https://www.youtube.com/watch?v=fazV5OEUVDo) 1:51:39s
+- [What is Astro? - Tech Talks With Santosh](https://www.youtube.com/watch?v=Z3yGHudmQzA) 1:51:44s
 - [Designing a Blog with Astro and TailwindCSS - Josh Medeski](https://www.youtube.com/watch?v=jWsRpho_vII) 1:53:46s
 - [I Try Astro For the First Time! - James Q Quick](https://www.youtube.com/watch?v=2H9T1-H5V3M) 1:54:18s
 - [Blasting Off with Astro 1.0! - Alex Trost](https://www.youtube.com/watch?v=Sxz17o5EmrA) 1:59:38s
@@ -237,6 +242,10 @@
 - [Astro Crash Course #3 - API Data Fetching, Components in Markdown, Pagination, RSS, & Hosting](https://www.youtube.com/watch?v=9wXdv7rHW2w) 22:06s
 - [Astro Crash Course #4 - How to Add Categories/Tags To Blog Posts](https://www.youtube.com/watch?v=m50ITGl8tPI) 27:06s
 - [Astro Crash Course #5 - Upgrading to Astro v1.0, Using Astro's Image Integration](https://www.youtube.com/watch?v=ZWcan5m2dP4) 25:38s
+
+### Sanity Crash Course by [Little Sticks](https://www.youtube.com/@LittleSticks)
+
+- [Sanity Crash Course #1 - Setting Up a Sanity v3 & Astro 2.0 Project From Scratch](https://www.youtube.com/watch?v=6aQ-vD2vRyY)
 
 ### Astro JS Tutorial Series by [Stefan Rows](https://www.youtube.com/@StefanRows)
 
