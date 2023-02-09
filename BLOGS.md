@@ -82,6 +82,7 @@ Title | Description
 ---|---
 [Add Searching To Your Astro Static Site](https://blog.otterlord.dev/post/astro-search/) | Using [Pagefind](https://pagefind.app/) to add a search bar to an Astro website
 [Pagefind is quite a find for site search](https://www.brycewray.com/posts/2022/07/pagefind-quite-find-site-search/) | How to implement [Pagefind](https://pagefind.app/) inside of SSG frameworks like Astro
+[Writing a Fuzzy Search Component With Preact and Fuse for Astro - Lloyd Atkinson](https://www.lloydatkinson.net/posts/2022/writing-a-fuzzy-search-component-with-preact-and-fuse-for-astro/) | How to build a search component using React and [Fuse.js](https://fusejs.io/)
 [How to Create an Astro Search component 🔍🤔](https://dev.to/danidiaztech/how-to-create-an-astro-search-component-2731) | How to build a search component using [Fuse.js](https://fusejs.io/) and React
 [Client-Side Search](https://barnabas.me/articles/client-side-search/) | Implementing client side search using [`@barnabask/astro-minisearch`](https://www.npmjs.com/package/@barnabask/astro-minisearch) an Astro library for [MiniSearch](https://github.com/lucaong/minisearch)
 
