@@ -211,6 +211,9 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 ### If I want to add SPA functionality?
 
+[Blogs about SPAs in Astro](https://github.com/BryceRussell/my-awesome-astro/blob/main/BLOGS.md#spa)
+["Building SPA with Astro 1.0 Beta" Youtube series by Parasocial Fix](https://github.com/BryceRussell/my-awesome-astro/blob/main/YOUTUBE.md#building-spa-with-astro-10-beta-by-parasocial-fix)
+
 - [@tanstack/router](https://tanstack.com/router/v1/docs/overview) - TanStack Router
   - [Are you an @astrodotbuild fan? Check out the latest @tan_stack Router beta working in Astro!](https://twitter.com/tannerlinsley/status/1623016669177315329?cxt=HHwWgoDQ7ffDjoYtAAAA)
 - [@solidjs/router](https://github.com/solidjs/solid-router) - Router for SolidJS
