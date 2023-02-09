@@ -48,6 +48,7 @@
 - [Why Astro will be your favorite web app framework - DevTrends](https://www.youtube.com/watch?v=qEUzK1g9Hu8) 9:18s
 - [Astro Headless WordPress Starter Demo - WP Engine Builders](https://www.youtube.com/watch?v=BcoxZZIfESI) 9:18s
 - [Astro JS is here to stay - Awesome](https://www.youtube.com/watch?v=npmalb821gc) 9:19s
+- [Automagic CSS Bundles splitting for each Page and Layout in Astro.build | Stylify CSS - Stylify](https://www.youtube.com/watch?v=OYJn23w8fqI) 9:24s 
 - [ASTRO Dynamic Title Tag | Tutorial | Static Site Generator SSG JavaScript JS - Future Web Design](https://www.youtube.com/watch?v=Rg7Finb-Uxw) 9:24s
 - [Astro Lightning Launch: Astro v 0.21 with Matthew Phillips - Jamstack TV](https://www.youtube.com/watch?v=fop0HoArXxE) 9:31s
 - [WTF?! Building a new tool to help you choose your next JavaScript framework — Built with Astro - whitep4nth3r](https://www.youtube.com/watch?v=2ECq6-FKIBE) 9:36s
