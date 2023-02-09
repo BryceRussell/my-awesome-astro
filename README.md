@@ -97,10 +97,10 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 - [astro-cube](https://github.com/williamhzo/astro-cube) - Starter template for [CUBE CSS](https://cube.fyi/)
 - [Tailwindcss](https://docs.astro.build/en/guides/integrations-guide/tailwind/) - [Documentation](https://tailwindcss.com/docs/configuration)
-- [Windi CSS](https://github.com/Dv-Dn/astro-integration-windicss) - [Documentation](https://windicss.org/guide/)
 - [UnoCSS](https://github.com/unocss/unocss) - [Documentation](https://uno.antfu.me)
-- [Stylify](https://stylifycss.com/docs/integrations/astro) - [Documentation](https://stylifycss.com/docs/get-started)
 - [Vanilla Extract](https://github.com/codiume/orbit/tree/main/packages/astro-vanilla-extract) - [Documentation](https://vanilla-extract.style/documentation/getting-started)
+- [Windi CSS](https://github.com/Dv-Dn/astro-integration-windicss) - [Documentation](https://windicss.org/guide/)
+- [Stylify](https://stylifycss.com/docs/integrations/astro) - [Documentation](https://stylifycss.com/docs/get-started)
 
 ### If I want to add client side interactivity?
 
