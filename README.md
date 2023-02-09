@@ -211,5 +211,9 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 ### If I want to add SPA functionality?
 
+- [@tanstack/router](https://tanstack.com/router/v1/docs/overview) - TanStack Router
+  - [Are you an @astrodotbuild fan? Check out the latest @tan_stack Router beta working in Astro!](https://twitter.com/tannerlinsley/status/1623016669177315329?cxt=HHwWgoDQ7ffDjoYtAAAA)
+- [@solidjs/router](https://github.com/solidjs/solid-router) - Router for SolidJS
+  - [Did you know you can slap an SPA inside @astrodotbuild?? It's so easy! Let's see the `@solid_js router` in action, with SSR and route animations to boot 🙌](https://twitter.com/bholmesdev/status/1582726860646993920)
 - [QGP](https://qgp.deno.dev/) - HMR for SPA routes/pages
 - [astro-spa](https://github.com/RafidMuhymin/astro-spa) - Astro SPA is a SPA component/library that is built using Astro components. Includes support for animations, caching, containerization, local link detection, prefetching, progress bar, and more. 1.2kb(min+gzipped)
