@@ -139,6 +139,7 @@
 - [Fred K. Schott - Snowpack, Astro - devtools-fm](https://www.youtube.com/watch?v=1i9Wm7dP1Aw) 57:22s
 - [2.11 - Build faster websites-with Astro - CodingCatDev](https://www.youtube.com/watch?v=vw-c0FSse5o) 59:06s
 - [Astro Demo Day - September Edition - Astro](https://www.youtube.com/watch?v=-ExcBJrXOd8) 59:15s
+- [A crash course in Jamstack with Headless WP, Astro, and Buddy | Buddy Webinar #9 - Buddy](https://www.youtube.com/watch?v=jkMvQKuDhqU) 1:00:22s
 - [Code & Chill with Storyblok #3 - Astro Edition - Storyblok](https://www.youtube.com/watch?v=_UpwoeZjV-c) 1:01:47s
 - [Astro 2.0 with Fred K. Schott (JS Party Live!) - Changelog](https://www.youtube.com/watch?v=CJamBV6Cwr8) 1:02:14s
 - [🛑 Building FAST Websites with Astro 🚀 - Simon Grimm](https://www.youtube.com/watch?v=CmwkWouL_OU) 1:04:01s
