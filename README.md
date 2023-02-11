@@ -179,6 +179,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
   - [Integrate Astro and Sanity with our new Astro Integration! 🚀 - Little Sticks](https://www.youtube.com/watch?v=NM0FPzVdeUw)
   - [Playing around with Sanity.io ](https://dev.to/palmiak/playing-around-with-sanityio-3l5e)
 - [astro-netlify-cms](https://github.com/delucis/astro-netlify-cms) - Astro integration for [Netlify CMS](https://www.netlifycms.org/)
+- [Astro - Starter Ghost](https://github.com/PhilDL/astro-starter-ghost) - A starter template to build super fast websites with [Ghost](https://ghost.org/docs/) and Astro
 
 ### If I want to add E-Commerce?
 
