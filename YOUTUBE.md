@@ -38,6 +38,7 @@
 - [How to use TAILWIND in ASTRO - A shot of code](https://www.youtube.com/watch?v=Aihhv-Xo5Ck) 6:47s
 - [Intro to Astro + Svelte - Svelte Mastery](https://www.youtube.com/watch?v=7ClGgtwn3bY) 6:56s
 - [Create Site Maps with ASTRO | Tutorial | Static Site Generator SSG JavaScript JS - Future Web Design](https://www.youtube.com/watch?v=ZHop5-8CGj4) 7:07s
+- [Astro 2 is out! Why should you care? - Awesome](https://www.youtube.com/watch?v=cTgyGl7dHJQ) 7:33s
 - [Why Use Astro - Chris Hawkes](https://www.youtube.com/watch?v=8mE1Auts20Q) 8:07s
 - [What is Astro? - Kodaps Academy](https://www.youtube.com/watch?v=oQDErNNzdwU) 8:15s
 - [Updating my Astro + Sanity Minimal Starter! (Sanity Block Content To React) - Little Sticks](https://www.youtube.com/watch?v=dB7CmFLQiSs) 8:28s
