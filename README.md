@@ -75,6 +75,11 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [astro-eleventy-img](https://github.com/Princesseuh/astro-eleventy-img) - Generate images using [eleventy-img](https://github.com/11ty/eleventy-img)
 - [astro-imagekit](https://www.npmjs.com/package/astro-imagekit) - An opinionated toolset for using ImageKit.io with your Astro website
 
+### If I want to use relative images in my markdown?
+
+- [Siena](https://github.com/pilcrowOnPaper/siena) - A Rehype plugin for Astro that makes working with images inside markdown easier
+- [astro-m2dx](https://www.npmjs.com/package/astro-m2dx#relative-images) - Resolve relative image references in MDX files, and tons more
+- [astro-md-image-integration](https://github.com/userquin/astro-md-image-integration) - Use images outside of `/src`, [example](https://github.com/withastro/roadmap/discussions/334)
 
 ### If I want to render a string of markdown?
 
