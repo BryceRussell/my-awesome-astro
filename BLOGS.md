@@ -1,8 +1,8 @@
 # Blogs
 
-## Table of Contents
+- ["astro" tag on dev.to](https://dev.to/t/astro)
 
-["astro" tag on dev.to](https://dev.to/t/astro)
+## Table of Contents
 
 - [Official](#official)
 - [Introductions to Astro](#introductions-to-astro)
