@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-[Huge List of Astro Blogs](https://dev.to/t/astro)
+["astro" tag on dev.to](https://dev.to/t/astro)
 
 - [Official](#official)
 - [Introductions to Astro](#introductions-to-astro)
