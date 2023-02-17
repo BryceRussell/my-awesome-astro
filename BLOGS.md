@@ -11,6 +11,8 @@
 - [Images](#images)
 - [Open Graph Images](#open-graph-images)
 - [Adding Search](#adding-search)
+- [Server Side Rendering (SSR)](#server-side-rendering-ssr)
+- [Forms](#forms)
 - [Authentication](#authentication)
 - [SPA](#spa)
 - [Migrating](#migrating)
@@ -35,7 +37,8 @@ Title | Description
 ---|---
 [What I Like About Astro](https://dev.to/alexmacarthur/what-i-like-about-astro-3phl) | Gives 4 reasons to love Astro
 [Why I used Astro to build my blog](https://bloycey.blog/posts/why-i-used-astro-to-build-my-blog/) | Gives 6 reasons to love Astro
-[Astro? Let's try it](https://dev.to/mirkosaugo/astro-lets-try-it-23m2) | 
+[Build your next website with Astro ](https://dev.to/360macky/build-your-next-website-with-astro-40ip) | Small introduction to Astro
+[Astro? Let's try it](https://dev.to/mirkosaugo/astro-lets-try-it-23m2) | Small intro to Astro with Pros and Cons
 [My brand new Astro site](https://kld.dev/my-brand-new-astro-site/) | Personal website redesign using Astro
 [What's new in Astro 2.0?](https://dev.to/obinnaspeaks/whats-new-in-astro-20-m42) | Overview of new features in Astro 2.0
 [How to Create an Astro JS Project - Quick Start Guide](https://dev.to/danidiaztech/how-to-create-an-astro-js-project-quick-start-guide-1hgm) | Explains how to create an Astro project and use components
@@ -92,8 +95,15 @@ Title | Description
 Title | Description
 ---|---
 [Announcing @storyblok/astro](https://www.storyblok.com/mp/announcing-storyblok-astro) | How to start using [`storyblok`](https://www.storyblok.com) in Astro
+[Astro + Storyblok: SSR preview for instant visual editing](https://dev.to/jgierer12/astro-storyblok-ssr-preview-for-instant-visual-editing-3g9m) | Setting up a live preview for Storyblok
+[Astro + Storyblok: SSR Tips and Tricks](https://dev.to/jgierer12/astro-storyblok-ssr-tips-and-tricks-3j2k) | Tips and tricks for using Storyblok with SSR
+[Getting the Visual Editor to work for Storyblok + Astro](https://dev.to/sandrarodgers/getting-the-visual-editor-to-work-for-storyblok-astro-2gja) | Setting up Storyblok's visual editor with SSR
 [Playing around with Sanity.io ](https://dev.to/palmiak/playing-around-with-sanityio-3l5e) | Explains what Sanity.io is and how to use it with Astro
 [Add a headless CMS to Astro in 3 easy steps](https://dev.to/stefankudla/add-a-headless-cms-to-astro-in-3-easy-steps-g87) | Tutorial for using [`cosmicjs`](https://www.cosmicjs.com) in Astro
+
+## Server Side Rendering (SSR)
+
+[Astro Cookies API: Cookies on HTTP Requests](https://dev.to/askrodney/astro-cookies-api-cookies-on-http-requests-4fn5) | Introduction to Astro's cookie API
 
 ### Forms
 Title | Description
@@ -132,6 +142,8 @@ Title | Description
 
 Title | Description
 ---|---
+[Using Vue 2 component in Astro, not Vue3 .... is it possible?](https://dev.to/ktmouk/use-astro-with-vue-2x-not-3x-is-it-possible-19m6) | Creating a Vue 2 integration for Astro
+[Astro Comment Form: with Turnstile & Prerender](https://dev.to/askrodney/astro-comment-form-with-turnstile-prerender-501d) | Building a comment component with Cloudflare ReCaptcha
 [Astro Sitemaps: Add Post and Page XML Sitemaps](https://dev.to/askrodney/astro-sitemaps-add-post-and-page-xml-sitemaps-1l8g) | How to add sitemaps to your website using `@astrojs/sitemap`
 [Add the content of your blog posts to your Astro RSS feed](https://bensmith.sh/blog/astro-rss-full-content/) | How to use `@astrojs/rss` to add a RSS feed to your blog
 
