@@ -227,3 +227,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 - [astro-spa](https://github.com/RafidMuhymin/astro-spa) - Astro SPA is a SPA component/library that is built using Astro components. Includes support for animations, caching, containerization, local link detection, prefetching, progress bar, and more. 1.2kb(min+gzipped)
 
 ["Building SPA with Astro 1.0 Beta" Youtube series by Parasocial Fix](https://github.com/BryceRussell/my-awesome-astro/blob/main/YOUTUBE.md#building-spa-with-astro-10-beta-by-parasocial-fix)
+
+- If I want to cache API requests?
+
+- [@11ty/eleventy-fetch](https://github.com/11ty/eleventy-fetch) - Fetch network resources and cache them so you don’t bombard your API (or other resources)
