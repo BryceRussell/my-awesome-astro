@@ -228,6 +228,6 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 ["Building SPA with Astro 1.0 Beta" Youtube series by Parasocial Fix](https://github.com/BryceRussell/my-awesome-astro/blob/main/YOUTUBE.md#building-spa-with-astro-10-beta-by-parasocial-fix)
 
-- If I want to cache API requests?
+### If I want to cache API requests?
 
 - [@11ty/eleventy-fetch](https://github.com/11ty/eleventy-fetch) - Fetch network resources and cache them so you don’t bombard your API (or other resources)
