@@ -1,3 +1,7 @@
+## Support
+
+Need help? [Join the Discord](https://astro.build/chat) and create a post in the [`#support`](https://discord.com/channels/830184174198718474/1019713903481081876) channel
+
 ## Official Links
 
 [Website](https://astro.build/) | [Documentation](https://docs.astro.build/en/getting-started/) | [Integrations](https://astro.build/integrations/) | [Themes](https://astro.build/themes/) | [Blog](https://astro.build/blog/) | [Showcase](https://astro.build/showcase/)
@@ -12,9 +16,9 @@
 [Discord](https://astro.build/chat) | [Twitter](https://astro.build/on/twitter) | [Youtube](https://www.youtube.com/@astrodotbuild) | [Mastadon](https://m.webtoo.ls/@astro) | [Open Collective](https://opencollective.com/astrodotbuild)
 ---|---|---|---|---
 
-## Support
+## Contribute
 
-Need help? [Join the Discord](https://astro.build/chat) and create a post in the [`#support`](https://discord.com/channels/830184174198718474/1019713903481081876) channel
+Don't be afraid to create a PR! This repo has a lot of links and Astro is constantly updating/evolving which makes this repo hard to maintain, contributions are greatly appreciated and help others who are looking for information about Astro!
 
 ## Resources
 ### [FAQ](/FAQ.md)
