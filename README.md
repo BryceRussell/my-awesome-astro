@@ -18,7 +18,7 @@ Need help? [Join the Discord](https://astro.build/chat) and create a post in the
 
 ## Contribute
 
-Don't be afraid to create a PR! This repo has a lot of links and Astro is constantly updating/evolving which makes this repo hard to maintain, contributions are greatly appreciated and help others who are looking for information about Astro!
+Don't be afraid to create a PR! This repo has a lot of links and Astro is constantly updating/evolving which makes it hard to maintain and keep up to date. Any contribution is greatly appreicated!
 
 ## Resources
 ### [FAQ](/FAQ.md)
